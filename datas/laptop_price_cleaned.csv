@@ -1,0 +1,1274 @@
+Company,TypeName,Inches,CPU_Frequency (GHz),RAM (GB),Weight (kg),Price (Euro),Touchscreen,IPS_Panel,PPI,SSD_GB,HDD_GB,Flash_Storage_GB,Hybrid_GB,Total_Storage_GB,Has_SSD,CPU_Tier,GPU_Brand_Cat,GPU_Dedicated,OpSys_Group,log_price
+Apple,Ultrabook,13.3,2.3,8,1.37,1339.69,0,1,226.98,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,macOS,7.200939685789514
+Apple,Ultrabook,13.3,1.8,8,1.34,898.94,0,0,127.68,0.0,0.0,128.0,0.0,128.0,0,Intel Core i5,Intel (Integrated),0,macOS,6.802328094435323
+HP,Notebook,15.6,2.5,8,1.86,575.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,No OS,6.3561076606958915
+Apple,Ultrabook,15.4,2.7,16,1.83,2537.45,0,1,220.53,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,AMD (Dedicated),1,macOS,7.839308937522205
+Apple,Ultrabook,13.3,3.1,8,1.37,1803.6,0,1,226.98,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,macOS,7.4980942395604
+Acer,Notebook,15.6,3.0,4,2.1,400.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.993961427306569
+Apple,Ultrabook,15.4,2.2,16,2.04,2139.97,0,1,220.53,0.0,0.0,256.0,0.0,256.0,0,Intel Core i7,Intel (Integrated),0,macOS,7.669014276347654
+Apple,Ultrabook,13.3,1.8,8,1.34,1158.7,0,0,127.68,0.0,0.0,256.0,0.0,256.0,0,Intel Core i5,Intel (Integrated),0,macOS,7.055916629962658
+Asus,Ultrabook,14.0,1.8,16,1.3,1495.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.310550158534422
+Acer,Ultrabook,14.0,1.6,8,1.6,770.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.647688373563329
+HP,Notebook,15.6,2.5,4,1.86,393.9,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,No OS,5.978632568292603
+HP,Notebook,15.6,2.0,4,1.86,344.99,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,No OS,5.846409872905957
+Apple,Ultrabook,15.4,2.8,16,1.83,2439.97,0,1,220.53,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,macOS,7.800150780272373
+Dell,Notebook,15.6,2.0,4,2.2,498.9,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,AMD (Dedicated),1,Windows,6.214408078419525
+Apple,Ultrabook,12.0,1.2,8,0.92,1262.4,0,1,226.42,256.0,0.0,0.0,0.0,256.0,1,Intel Core M,Intel (Integrated),0,macOS,7.1415617784646
+Apple,Ultrabook,13.3,2.3,8,1.37,1518.55,0,1,226.98,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,macOS,7.326169517376512
+Dell,Notebook,15.6,2.7,8,2.2,745.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.61472560020376
+Apple,Ultrabook,15.4,2.9,16,1.83,2858.0,0,1,220.53,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,AMD (Dedicated),1,macOS,7.958227192322312
+Lenovo,Notebook,15.6,2.4,8,2.2,499.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,No OS,6.214608098422191
+Dell,Ultrabook,13.3,1.6,8,1.22,979.0,1,1,165.63,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.887552571664617
+Asus,Netbook,11.6,1.44,2,0.98,191.9,0,0,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.262171919911683
+Lenovo,Gaming,15.6,2.5,8,2.5,999.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.907755278982137
+HP,Notebook,15.6,1.5,4,1.86,258.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,No OS,5.556828061699537
+Dell,2 in 1 Convertible,13.3,1.6,8,1.62,819.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.709304340258298
+HP,Ultrabook,15.6,1.8,8,1.91,659.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.492239835020471
+Dell,Notebook,15.6,2.0,4,2.3,418.64,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.039397200863284
+Apple,Ultrabook,13.3,1.6,8,1.35,1099.0,0,0,127.68,0.0,0.0,128.0,0.0,128.0,0,Intel Core i5,Intel (Integrated),0,macOS,7.003065458786462
+Dell,Notebook,15.6,1.6,8,2.2,800.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.68586094706836
+Dell,Ultrabook,15.6,1.9,8,1.88,1298.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.1693500166706
+HP,Notebook,17.3,1.6,8,2.5,896.0,0,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.799055862058796
+Chuwi,Notebook,15.6,1.44,4,1.89,244.99,0,0,141.21,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.505290884699608
+Asus,Notebook,14.0,1.5,2,1.65,199.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.298317366548036
+HP,Notebook,17.3,2.5,4,2.71,439.0,0,0,127.34,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.0867747269123065
+Dell,Ultrabook,13.3,1.8,16,1.2,1869.0,1,0,276.05,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.533693709848633
+Apple,Ultrabook,13.3,1.6,8,1.35,998.0,0,0,127.68,0.0,0.0,256.0,0.0,256.0,0,Intel Core i5,Intel (Integrated),0,macOS,6.906754778648554
+Lenovo,Notebook,14.0,1.1,4,1.44,249.0,0,0,111.94,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.521460917862246
+Acer,Notebook,15.6,2.7,4,2.1,367.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Linux,5.908082938168931
+Dell,Notebook,17.3,1.6,8,2.8,979.0,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.887552571664617
+HP,Notebook,15.6,2.5,4,1.86,488.69,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.193772537834054
+HP,Notebook,15.6,1.6,8,2.1,879.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.779921907472252
+Asus,Notebook,15.6,2.0,4,2.0,389.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Linux,5.966146739123692
+Dell,Gaming,15.6,2.8,16,2.65,1499.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.313220387090301
+Asus,Notebook,15.6,2.5,8,2.3,522.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Linux,6.261472600169475
+Acer,Notebook,15.6,1.6,4,2.2,682.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.52649485957079
+Dell,2 in 1 Convertible,17.3,1.6,12,2.77,999.0,1,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.907755278982137
+Apple,Ultrabook,13.3,2.0,8,1.37,1419.0,0,1,226.98,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,macOS,7.258412150595307
+Lenovo,Notebook,15.6,2.0,4,2.2,369.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,No OS,5.91350300563827
+Asus,Gaming,17.3,3.0,8,3.2,1299.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,AMD Processor,AMD (Dedicated),1,Windows,7.170119543449628
+Dell,Notebook,15.6,2.5,4,2.3,639.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.461468176353717
+Asus,Notebook,17.3,1.1,4,2.8,466.0,0,0,90.58,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Nvidia,1,Windows,6.1463292576688975
+Lenovo,2 in 1 Convertible,10.1,1.44,4,0.69,319.0,1,1,224.17,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.768320995793772
+Acer,Notebook,15.6,1.8,8,2.2,841.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.7357800142423265
+HP,Notebook,15.6,2.5,4,1.86,398.49,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,5.99018873360393
+HP,Notebook,13.3,1.8,8,1.49,1103.0,0,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.00669522683704
+Acer,Notebook,15.6,2.4,4,2.4,384.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,5.953243334287785
+Dell,Notebook,15.6,1.8,8,2.13,767.8,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.644830857656083
+HP,Notebook,15.6,2.0,4,1.91,439.0,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.0867747269123065
+Asus,Notebook,15.6,2.5,4,2.0,586.19,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.375348447182542
+MSI,Gaming,17.3,2.8,16,2.43,2449.0,0,0,127.34,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,Nvidia,1,Windows,7.803843303538772
+Asus,Notebook,15.6,2.0,4,2.0,415.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,Linux,6.030685260261263
+Dell,Notebook,17.3,1.8,16,2.8,1299.0,0,0,127.34,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.170119543449628
+Dell,Ultrabook,14.0,1.6,8,1.7,879.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.779921907472252
+Lenovo,Notebook,14.0,2.7,8,1.7,599.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,No OS,6.396929655216146
+Asus,Notebook,14.0,1.6,8,1.4,941.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.848005274576363
+HP,Notebook,15.6,2.5,8,1.86,690.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.53813982376767
+Asus,Ultrabook,15.6,2.8,16,1.8,1983.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.592870287844818
+HP,Notebook,15.6,2.0,4,1.86,438.69,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,AMD (Dedicated),1,Windows,6.086069933148976
+HP,Notebook,14.0,1.6,4,1.44,229.0,0,0,111.94,32.0,0.0,0.0,0.0,32.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,5.438079308923196
+Lenovo,Notebook,15.6,2.5,4,1.9,549.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.309918278226516
+Asus,Gaming,17.3,2.8,12,3.0,949.0,0,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Linux,6.856461984594587
+Microsoft,Ultrabook,13.5,2.5,4,1.252,1089.0,1,0,200.84,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.993932975223189
+Dell,Ultrabook,13.3,1.8,8,1.4,955.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.862757913051401
+Dell,Notebook,15.6,1.8,8,2.2,870.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.769641976852503
+MSI,Gaming,17.3,2.5,8,2.7,1095.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.999422467507961
+Acer,Notebook,14.0,2.0,8,2.1,389.0,0,0,111.94,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,5.966146739123692
+Asus,Gaming,15.6,2.8,8,2.2,949.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.856461984594587
+Lenovo,Notebook,15.6,2.5,8,2.2,519.0,0,0,141.21,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i5,Intel (Integrated),0,No OS,6.253828811575473
+Dell,Notebook,15.6,1.8,8,2.02,855.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.752270376141742
+Acer,Notebook,15.6,2.7,4,2.2,530.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Windows,6.274762021241939
+HP,Notebook,17.3,1.6,8,2.5,977.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.885509670034818
+Dell,Ultrabook,15.6,1.6,8,1.88,1096.16,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.000480301964336
+Apple,Ultrabook,12.0,1.3,8,0.92,1510.0,0,1,226.42,512.0,0.0,0.0,0.0,512.0,1,Intel Core i5,Intel (Integrated),0,macOS,7.32052696227274
+HP,Notebook,14.0,1.6,8,1.63,860.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.7580945044277305
+Lenovo,Notebook,15.6,2.5,4,2.2,399.0,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,AMD Processor,AMD (Integrated),0,Windows,5.991464547107982
+Acer,Notebook,15.6,3.0,4,2.1,395.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.981414211254481
+Dell,Gaming,15.6,2.8,16,2.65,1349.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.2078598714324755
+HP,Ultrabook,15.6,1.8,8,1.83,699.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.551080335043404
+HP,Notebook,15.6,2.5,8,1.96,598.99,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.396912988410589
+Asus,Gaming,15.6,2.8,16,2.2,1449.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.27931883541462
+Dell,Ultrabook,13.3,1.8,8,1.21,1649.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.408530566894626
+Asus,Gaming,15.6,3.0,8,2.45,699.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.551080335043404
+Acer,Notebook,15.6,1.8,8,2.2,689.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.536691597591305
+HP,Notebook,13.3,1.8,16,1.49,1197.0,0,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.088408778675395
+Dell,Gaming,15.6,2.5,8,2.65,1195.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,7.086737934510577
+Asus,Ultrabook,14.0,2.7,8,1.25,1049.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.956545443151569
+Acer,2 in 1 Convertible,13.3,1.6,8,1.5,847.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.742880635791903
+Dell,Notebook,15.6,2.7,8,2.2,599.9,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Linux,6.398428531339882
+Dell,Notebook,15.6,2.0,4,2.2,485.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,AMD (Dedicated),1,Linux,6.186208623900494
+Asus,Notebook,15.6,2.4,6,2.0,577.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Nvidia,1,Windows,6.359573868672378
+HP,Gaming,15.6,2.8,12,2.62,1249.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.1308988302963465
+HP,Notebook,15.6,2.7,8,1.91,719.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.579251212010101
+HP,Notebook,15.6,1.5,4,2.1,349.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.857933154483459
+Dell,Notebook,15.6,1.6,8,2.2,647.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Linux,6.473890696352274
+HP,Ultrabook,13.3,2.7,8,1.38,1119.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.02108396428914
+Microsoft,Ultrabook,13.5,2.5,8,1.252,1340.0,1,0,200.84,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.201170883281678
+HP,Notebook,14.0,2.5,6,1.58,659.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.492239835020471
+Lenovo,Notebook,15.6,2.0,4,1.85,414.9,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.030444846748866
+Asus,Ultrabook,14.0,2.7,8,1.3,1193.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.085064293952548
+MSI,Gaming,15.6,2.8,16,2.2,1299.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.170119543449628
+Lenovo,Notebook,14.0,2.7,8,1.58,1480.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.300472814267799
+Asus,Ultrabook,15.6,1.8,16,1.5,1262.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.141245122350491
+Dell,Ultrabook,13.3,2.4,8,1.23,1379.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.22983877815125
+Lenovo,2 in 1 Convertible,13.3,2.5,8,1.37,1399.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.24422751560335
+HP,Notebook,14.0,1.6,4,1.63,722.0,0,1,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.583409222158765
+Dell,Ultrabook,13.3,1.6,8,1.21,1629.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.396335293800808
+HP,2 in 1 Convertible,13.3,1.6,8,1.26,1398.99,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.244220372720696
+HP,Notebook,14.0,1.8,8,1.63,1084.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.98933526597456
+Dell,Notebook,15.6,1.8,8,2.16,1130.33,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.031149210745764
+Asus,Notebook,17.3,2.0,4,2.0,564.0,0,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Windows,6.336825731146441
+Asus,Notebook,15.6,1.8,8,1.7,1118.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.020190708311925
+Acer,Notebook,15.6,2.4,6,2.1,479.0,1,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.173786103901937
+MSI,Gaming,15.6,2.8,16,1.8,2241.5,0,0,141.21,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,Nvidia,1,Windows,7.715346593932951
+Lenovo,Notebook,15.6,2.5,8,2.2,629.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,No OS,6.4457198193855785
+HP,Notebook,17.3,1.8,16,2.5,1271.0,0,0,127.34,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.148345743900068
+Acer,Notebook,15.6,3.0,4,2.1,451.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.113682179832232
+HP,Notebook,15.6,1.6,4,1.86,259.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,No OS,5.560681631015528
+HP,Notebook,14.0,1.6,8,1.63,812.0,0,0,157.35,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.70073110954781
+Asus,Notebook,14.0,1.5,4,1.65,277.99,0,0,111.94,64.0,0.0,0.0,0.0,64.0,1,AMD Processor,AMD (Dedicated),1,Windows,5.631175938885108
+Dell,Notebook,17.3,1.8,16,2.8,1396.0,0,0,127.34,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.242082359256962
+HP,Notebook,17.3,1.6,8,2.5,928.0,0,0,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.834108738813838
+Dell,Notebook,15.6,2.5,8,2.36,638.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.461452551231646
+Dell,Notebook,15.6,2.0,4,2.2,449.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Windows,6.1092475827643655
+Acer,Ultrabook,14.0,1.8,8,1.6,884.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.785587645007929
+Acer,Notebook,15.6,2.7,4,2.2,572.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Nvidia,1,Windows,6.35088571671474
+HP,Notebook,15.6,2.7,8,2.05,598.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.395261598115449
+HP,Notebook,14.0,1.8,8,1.63,988.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.8966943316227125
+Lenovo,Notebook,15.6,1.1,4,1.9,252.36,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,No OS,5.5348114022303845
+Asus,Gaming,17.3,2.5,8,3.0,938.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.844815479208263
+Lenovo,Notebook,15.6,2.5,4,2.2,499.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,No OS,6.214608098422191
+HP,Notebook,13.3,2.5,4,1.32,699.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.551080335043404
+Acer,Notebook,17.3,2.7,4,3.0,655.0,0,1,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Windows,6.486160788944089
+Lenovo,Notebook,14.0,1.6,8,1.75,1116.02,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,7.018419704011861
+Lenovo,Gaming,15.6,2.8,8,2.4,869.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,No OS,6.76849321164863
+Toshiba,Notebook,15.6,2.3,4,2.1,602.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.401917196727186
+HP,Notebook,15.6,2.5,4,1.86,369.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,5.91350300563827
+Asus,Ultrabook,14.0,1.8,8,1.25,1099.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.003065458786462
+HP,Ultrabook,12.5,1.2,8,0.97,2014.0,1,1,352.47,512.0,0.0,0.0,0.0,512.0,1,Intel Core M,Intel (Integrated),0,Windows,7.608374474380783
+Asus,Notebook,15.6,1.1,4,2.0,344.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.84354441703136
+MSI,Gaming,17.3,2.8,16,2.9,2029.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.615791072035833
+Acer,Notebook,15.6,2.0,4,2.1,447.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.104793232414985
+Dell,Gaming,15.6,2.8,16,2.56,1249.26,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.131106808667346
+Dell,Gaming,15.6,2.8,8,2.62,899.0,0,0,141.21,0.0,0.0,0.0,1024.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.802394763324311
+Lenovo,Notebook,15.6,2.5,4,1.9,498.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.212606095751519
+MSI,Gaming,17.3,2.8,16,2.8,1890.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.544861068658458
+HP,Ultrabook,14.0,2.7,4,1.48,1082.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.9874902470009905
+HP,Notebook,15.6,1.6,6,1.91,619.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.429719478039138
+Lenovo,2 in 1 Convertible,14.0,2.4,4,1.74,629.0,1,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.4457198193855785
+Asus,2 in 1 Convertible,13.3,1.6,8,1.1,1315.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.182352111885263
+Dell,2 in 1 Convertible,15.6,1.8,8,1.56,1049.0,1,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.956545443151569
+Toshiba,Notebook,15.6,2.2,4,2.1,447.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.104793232414985
+Asus,Notebook,15.6,3.0,4,2.03,403.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.0014148779611505
+Acer,Notebook,17.3,1.6,4,3.0,805.0,0,1,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.692083742506628
+Dell,Notebook,15.6,1.6,8,2.13,728.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.591673732008658
+Lenovo,Gaming,15.6,2.8,16,2.5,1079.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.984716320118266
+Acer,Notebook,15.6,1.1,4,2.1,348.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.855071922202427
+MSI,Gaming,15.6,2.8,16,2.4,1799.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.495541943884256
+Acer,Notebook,15.6,1.1,4,2.1,363.51,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.898553985914634
+Dell,Gaming,15.6,2.8,8,2.56,1060.49,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,6.967428860467754
+Acer,Notebook,17.3,1.6,8,3.0,854.0,0,1,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.75110146893676
+HP,Notebook,13.3,1.6,4,1.49,754.0,0,1,165.63,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.626717749249025
+Huawei,Ultrabook,13.0,2.5,8,1.05,1349.0,0,1,199.69,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.2078598714324755
+HP,Notebook,17.3,2.5,6,2.71,699.0,0,1,127.34,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.551080335043404
+Lenovo,Notebook,15.6,2.9,4,2.2,309.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,No OS,5.736572297479192
+Toshiba,Notebook,15.6,2.4,4,2.0,489.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.194405391104672
+HP,Notebook,17.3,1.6,8,2.5,923.0,0,0,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.828712071641684
+Dell,Notebook,15.6,2.4,8,2.3,459.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.131226489483141
+Acer,Notebook,15.6,2.0,4,2.1,449.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.1092475827643655
+MSI,Gaming,18.4,2.9,32,4.4,2799.0,0,0,119.72,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,7.937374696163295
+Lenovo,Notebook,15.6,2.5,8,1.9,813.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,AMD (Integrated),0,Windows,6.70196036600254
+HP,2 in 1 Convertible,13.3,1.6,8,1.29,1499.0,1,1,331.26,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.313220387090301
+Dell,Notebook,15.6,1.8,16,2.02,1049.0,0,0,141.21,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,AMD (Dedicated),1,Linux,6.956545443151569
+Dell,Ultrabook,13.3,1.6,8,1.23,1399.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.24422751560335
+Lenovo,2 in 1 Convertible,13.9,1.8,16,1.4,1849.0,1,1,316.97,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.52294091807237
+Toshiba,Notebook,15.6,2.5,8,2.0,793.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.677083461247136
+Xiaomi,Notebook,15.6,1.6,8,1.95,1199.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,No OS,7.090076835776092
+Dell,Notebook,17.3,1.8,16,2.77,1549.0,1,0,127.34,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.346010209913293
+Dell,Notebook,15.6,2.8,16,2.06,2397.0,1,0,282.42,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.7823903355874595
+Lenovo,Gaming,15.6,2.5,8,2.4,779.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,No OS,6.659293919683638
+Acer,Ultrabook,13.3,1.2,8,1.12,989.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.897704943128636
+Dell,Notebook,17.3,1.8,8,2.8,1085.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.990256500493881
+Lenovo,2 in 1 Convertible,14.0,2.7,16,1.42,2824.0,1,0,209.8,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.946263643580541
+Vero,Notebook,14.0,1.1,4,1.3,260.0,0,1,157.35,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.564520407322694
+Xiaomi,Ultrabook,13.3,2.5,8,1.3,999.9,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,No OS,6.908654874224973
+Lenovo,Notebook,17.3,1.6,8,2.8,698.0,0,0,106.11,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,No OS,6.54965074223381
+Dell,2 in 1 Convertible,13.3,1.8,8,1.62,839.0,1,1,165.63,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.733401891837359
+HP,Notebook,17.3,1.6,8,2.5,914.0,0,1,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.818924065275521
+Razer,Gaming,17.3,2.9,32,3.49,6099.0,1,0,254.67,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Nvidia,1,Windows,8.716044050161402
+HP,Notebook,13.3,1.6,8,1.49,959.0,0,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.866933284461882
+HP,Gaming,17.3,2.8,16,3.35,1379.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.22983877815125
+HP,Notebook,17.3,1.8,8,2.5,1045.0,0,0,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.952728644624869
+Dell,Gaming,15.6,2.8,16,2.65,1845.0,0,1,282.42,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,7.520776415062797
+Lenovo,Notebook,15.6,2.3,4,2.1,493.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.202535517187923
+Acer,Notebook,15.6,2.7,8,2.23,742.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.610696044717759
+Lenovo,Gaming,15.6,2.8,16,3.2,1749.0,0,1,141.21,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,7.4673710669175595
+Dell,Workstation,15.6,3.0,16,2.8,3055.0,0,0,282.42,256.0,1024.0,0.0,0.0,1280.0,1,Intel Xeon,Nvidia,1,Windows,8.024862150286411
+Lenovo,Gaming,15.6,2.8,16,2.4,1398.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,No OS,7.243512974665482
+Dell,Notebook,15.6,2.4,6,2.3,439.0,1,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.0867747269123065
+Dell,Ultrabook,13.3,1.8,8,1.21,1949.0,1,1,331.26,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.575584651557793
+Dell,Ultrabook,13.3,1.8,8,1.2,1449.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.27931883541462
+Lenovo,Notebook,15.6,2.5,8,2.2,597.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.393590753950631
+Acer,Notebook,15.6,2.8,8,2.4,779.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Linux,6.659293919683638
+Asus,Gaming,17.3,2.8,16,2.9,1407.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.249925536717988
+HP,Notebook,15.6,2.0,4,2.1,349.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,No OS,5.857933154483459
+Lenovo,Notebook,15.6,2.5,8,2.2,549.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,No OS,6.309918278226516
+Huawei,Ultrabook,13.0,2.7,8,1.05,1499.0,0,1,199.69,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.313220387090301
+Dell,Ultrabook,13.3,1.8,8,1.4,931.88,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.8382765752120775
+Lenovo,Notebook,17.3,2.5,8,2.8,589.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,No OS,6.380122536899765
+HP,Notebook,14.0,1.8,8,1.63,1031.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.939253946041508
+Dell,Ultrabook,14.0,1.6,8,1.6,1149.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.047517221357296
+Dell,2 in 1 Convertible,13.3,1.8,16,1.62,1279.0,1,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.154615356913663
+Dell,Notebook,15.6,1.6,8,2.2,677.35,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Linux,6.519663378931318
+Lenovo,2 in 1 Convertible,14.0,1.6,8,1.74,899.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.802394763324311
+Toshiba,Ultrabook,13.3,2.5,8,1.2,1363.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.218176838403408
+HP,Notebook,15.6,1.6,8,2.1,794.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.678342114654332
+Dell,Gaming,17.3,2.8,16,4.42,2456.34,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.806834743085911
+Acer,Notebook,15.6,2.7,8,2.2,832.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.725033642166843
+Dell,Notebook,15.6,2.7,16,2.3,859.01,1,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Windows,6.756944017086926
+Asus,Notebook,15.6,2.5,8,2.0,769.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.646390514847729
+Asus,Notebook,17.3,2.5,8,2.69,891.0,0,0,127.34,256.0,500.0,0.0,0.0,756.0,1,Intel Core i5,Nvidia,1,Windows,6.79346613258001
+HP,Notebook,15.6,2.7,8,1.9,1269.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Windows,7.146772179452637
+Asus,Notebook,15.6,2.4,4,2.37,398.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,5.991439546795477
+HP,Notebook,15.6,1.5,4,2.1,330.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.802118375377063
+Lenovo,Gaming,15.6,2.8,16,3.2,1499.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.313220387090301
+Dell,Notebook,14.0,2.5,8,1.6,859.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.756932389247553
+Acer,2 in 1 Convertible,13.3,2.3,8,1.6,689.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.536691597591305
+Dell,Notebook,15.6,2.7,16,2.36,899.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Linux,6.802394763324311
+Acer,Notebook,15.6,2.0,4,2.1,390.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Linux,5.968707559985366
+Asus,Notebook,15.6,2.5,4,2.2,575.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.3561076606958915
+Asus,Gaming,17.3,2.9,32,4.7,3890.0,0,0,127.34,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,8.266421472984554
+Acer,Gaming,15.6,2.5,8,2.5,846.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.741700694652055
+Lenovo,Notebook,15.6,2.0,8,2.2,589.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.380122536899765
+Asus,Notebook,17.3,1.8,8,2.1,1145.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.044032897274685
+Asus,Notebook,17.3,2.7,8,2.69,889.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,No OS,6.7912214627261855
+Dell,Gaming,15.6,2.5,8,2.56,879.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.779921907472252
+Lenovo,2 in 1 Convertible,13.9,2.7,8,1.38,1079.0,1,1,158.48,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.984716320118266
+Dell,Notebook,15.6,1.8,8,2.2,985.0,0,0,141.21,128.0,2048.0,0.0,0.0,2176.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.893656354602635
+HP,Notebook,15.6,2.5,8,2.04,559.0,1,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.327936783729195
+Asus,Gaming,17.3,2.9,16,3.6,2999.0,0,0,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,8.006367567650246
+HP,Notebook,13.3,1.6,4,1.49,675.0,0,1,165.63,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.516193076042964
+Apple,Ultrabook,13.3,3.1,8,1.37,2040.0,0,1,226.98,512.0,0.0,0.0,0.0,512.0,1,Intel Core i5,Intel (Integrated),0,macOS,7.621195162809845
+Dell,2 in 1 Convertible,15.6,1.8,8,2.08,819.0,1,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.709304340258298
+Asus,Gaming,17.3,2.8,16,4.3,1799.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.495541943884256
+Asus,Notebook,15.6,3.0,4,1.68,469.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.152732694704104
+Lenovo,2 in 1 Convertible,13.9,1.8,8,1.37,1849.0,1,1,158.48,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.52294091807237
+Acer,Notebook,17.3,2.7,4,3.0,702.0,0,1,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Nvidia,1,Windows,6.555356891810665
+Dell,Ultrabook,13.3,1.6,8,1.41,949.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.856461984594587
+HP,Notebook,15.6,2.5,8,1.91,445.9,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.1023348559394055
+HP,Notebook,17.3,1.8,16,2.9,1059.0,0,1,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.966024187106113
+MSI,Gaming,17.3,2.8,16,4.14,2499.0,0,0,127.34,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,7.824046010856292
+Lenovo,2 in 1 Convertible,15.6,2.8,8,2.0,1699.0,1,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.438383530044307
+Dell,Notebook,17.3,1.8,8,2.8,1142.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.04141166379481
+Lenovo,Notebook,15.6,2.0,4,2.2,444.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,No OS,6.09807428216624
+HP,Notebook,15.6,1.6,4,2.1,722.0,0,1,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.583409222158765
+Dell,Notebook,15.6,2.5,4,2.18,657.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.489204931325317
+Dell,Notebook,15.6,2.5,8,2.24,565.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.338594078203183
+Dell,2 in 1 Convertible,15.6,1.6,8,2.67,799.0,1,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.684611727667927
+Asus,2 in 1 Convertible,13.3,1.8,8,1.1,1499.0,1,0,165.63,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.313220387090301
+Lenovo,Notebook,15.6,2.5,4,2.2,467.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,No OS,6.148468295917647
+HP,Notebook,17.3,1.8,8,2.5,1018.0,0,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.926577033222725
+Lenovo,Notebook,15.6,1.8,8,2.05,880.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.78105762593618
+Apple,Ultrabook,13.3,2.9,8,1.37,1958.9,0,1,226.98,512.0,0.0,0.0,0.0,512.0,1,Intel Core i5,Intel (Integrated),0,macOS,7.580648730514814
+Asus,Gaming,17.3,3.0,16,3.2,1549.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,AMD Processor,AMD (Dedicated),1,Windows,7.346010209913293
+Dell,Notebook,15.6,1.8,8,2.14,735.07,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Linux,6.601325222901983
+Lenovo,2 in 1 Convertible,14.0,2.6,16,1.36,2499.0,1,0,209.8,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.824046010856292
+Toshiba,Notebook,15.6,2.5,8,2.2,812.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i7,Nvidia,1,Windows,6.70073110954781
+Dell,Notebook,15.6,2.7,12,2.3,713.07,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.570980996749741
+Dell,Notebook,17.3,1.8,8,2.8,1099.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,AMD (Dedicated),1,Linux,7.003065458786462
+Acer,Notebook,15.6,1.8,8,2.2,745.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.61472560020376
+Lenovo,Notebook,17.3,2.0,4,2.8,489.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.194405391104672
+Lenovo,Notebook,17.3,1.8,8,2.8,849.0,0,0,127.34,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i7,Nvidia,1,No OS,6.745236349484363
+Lenovo,Notebook,17.3,2.7,6,2.8,859.0,0,0,106.11,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,6.756932389247553
+Dell,Notebook,15.6,2.0,4,2.25,428.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Linux,6.061456918928017
+Lenovo,Gaming,15.6,2.5,8,2.5,829.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.721425700790643
+Lenovo,Notebook,15.6,2.5,6,2.2,579.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.363028103540465
+Acer,Notebook,15.6,1.8,8,3.0,951.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.858565034791365
+Acer,Notebook,15.6,2.7,12,2.15,659.0,1,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.492239835020471
+Lenovo,Notebook,15.6,2.7,8,1.95,1097.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.001245622069476
+Asus,Ultrabook,15.6,2.5,8,1.7,977.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.885509670034818
+Lenovo,Gaming,15.6,2.8,16,2.5,1179.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.07326971745971
+Lenovo,Notebook,15.6,2.7,8,2.2,659.01,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,No OS,6.49225498642084
+Acer,Notebook,15.6,1.5,2,2.19,199.0,0,0,100.45,16.0,0.0,0.0,0.0,16.0,1,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.298317366548036
+Asus,Gaming,17.3,2.8,8,3.0,1187.0,0,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.080026499922591
+HP,Notebook,17.3,2.0,8,2.54,489.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.194405391104672
+Dell,Notebook,15.6,2.8,8,2.0,1829.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.512071245835466
+Lenovo,Notebook,15.6,1.6,8,2.05,739.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.606650186198215
+Lenovo,Gaming,15.6,2.8,8,3.2,1299.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.170119543449628
+Acer,Notebook,15.6,2.8,8,2.5,979.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Linux,6.887552571664617
+Dell,Workstation,17.3,2.9,16,3.42,2884.86,0,0,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.967578228108656
+Lenovo,Notebook,15.6,2.4,6,2.4,499.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.214608098422191
+Asus,Ultrabook,15.6,2.7,16,1.63,1468.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.292337176173877
+Asus,Notebook,14.0,2.4,4,1.3,509.0,0,0,111.94,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.234410725718371
+Asus,Gaming,17.3,2.8,16,2.9,2122.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.660585461703256
+Lenovo,Notebook,17.3,2.5,6,2.8,649.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.476972362889683
+Lenovo,Notebook,15.6,2.5,8,2.2,549.0,0,0,100.45,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i5,Nvidia,1,No OS,6.309918278226516
+Asus,Gaming,15.6,2.8,8,2.5,1265.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.143617602704121
+Lenovo,Notebook,15.6,1.1,4,2.2,359.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,No OS,5.888850257118181
+HP,2 in 1 Convertible,13.3,2.8,16,1.28,1975.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.588829878307813
+Toshiba,Notebook,15.6,2.5,8,2.2,1043.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.950814768442584
+Lenovo,Notebook,15.6,2.5,8,2.3,819.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.709304340258298
+HP,Notebook,15.6,2.0,4,1.86,469.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.152732694704104
+Lenovo,Notebook,13.3,2.5,8,1.1,999.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.907755278982137
+Dell,Ultrabook,13.3,1.8,16,1.21,2499.0,1,1,331.26,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.824046010856292
+MSI,Gaming,15.6,2.8,16,2.8,2099.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.649692623711514
+Acer,Notebook,15.6,2.2,8,2.23,469.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.152732694704104
+Asus,2 in 1 Convertible,11.6,1.1,2,1.1,275.0,1,0,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.62040086571715
+Dell,Notebook,15.6,1.6,8,2.33,844.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.739336627357174
+HP,2 in 1 Convertible,13.3,1.8,16,1.29,2449.0,1,1,331.26,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.803843303538772
+Lenovo,Notebook,13.3,1.6,4,1.45,459.9,0,0,117.83,0.0,0.0,16.0,0.0,16.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,6.133181099726462
+HP,Notebook,14.0,2.5,8,1.95,980.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.8885724595653635
+Acer,Notebook,11.6,1.6,4,1.4,485.0,0,0,135.09,0.0,0.0,128.0,0.0,128.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,6.186208623900494
+HP,Notebook,14.0,2.7,8,1.48,1292.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.164720378771857
+Lenovo,Notebook,17.3,2.5,4,2.79,589.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.380122536899765
+Asus,Notebook,14.0,2.7,8,2.0,1094.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.9985096422506015
+HP,Notebook,15.6,1.8,8,2.1,902.0,0,1,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.805722553416985
+Acer,Notebook,15.6,2.7,8,2.2,659.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.492239835020471
+Lenovo,Notebook,14.0,1.1,4,1.44,292.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.680172609017068
+Acer,Notebook,15.6,2.5,6,2.23,549.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.309918278226516
+Asus,Ultrabook,15.6,2.7,8,1.7,1049.9,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.957402218871551
+HP,Ultrabook,12.5,2.7,8,1.26,1335.0,0,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.197435354096591
+Dell,Notebook,15.6,2.8,32,2.06,2639.0,1,0,282.42,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Nvidia,1,Windows,7.878534196140362
+MSI,Gaming,17.3,2.8,8,2.7,1199.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.090076835776092
+Toshiba,Notebook,15.6,2.5,8,2.0,943.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.8501261661455
+Asus,Notebook,14.0,2.7,8,2.0,1334.0,0,0,157.35,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.19668657083435
+Lenovo,Notebook,15.6,2.0,4,1.85,449.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.1092475827643655
+Asus,Gaming,15.6,2.8,8,2.5,999.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.907755278982137
+HP,Notebook,14.0,2.6,8,1.48,1268.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.1459844677143876
+Dell,Ultrabook,15.6,1.6,8,1.9,1049.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.956545443151569
+HP,Notebook,15.6,2.5,8,1.84,1144.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.0431599159883405
+Asus,Notebook,15.6,1.1,4,2.0,274.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Linux,5.620364633176702
+Dell,Notebook,15.6,1.6,8,2.0,1142.75,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,7.042067616589731
+Dell,Notebook,15.6,1.6,4,2.2,274.9,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Linux,5.62003848122324
+Lenovo,Notebook,15.6,3.6,12,2.2,899.0,0,0,141.21,0.0,2048.0,0.0,0.0,2048.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.802394763324311
+HP,Notebook,15.6,2.4,8,2.1,716.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Windows,6.57507584059962
+Lenovo,2 in 1 Convertible,13.9,1.8,16,1.4,2099.0,1,1,316.97,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.649692623711514
+Dell,Ultrabook,13.3,1.8,8,1.2,1579.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.365180126021013
+Lenovo,Gaming,15.6,2.8,16,2.4,1129.0,0,1,141.21,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,Nvidia,1,Windows,7.029972911706386
+HP,Notebook,14.0,1.6,2,1.44,279.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.634789603169249
+Dell,Ultrabook,15.6,1.9,16,1.88,1607.96,0,0,141.21,768.0,0.0,0.0,0.0,768.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.383343286521773
+Asus,2 in 1 Convertible,11.6,1.1,4,1.5,375.0,1,0,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.929589143389895
+Dell,Ultrabook,15.6,1.6,8,1.9,663.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.498282149476434
+Dell,Notebook,15.6,2.8,16,2.06,2027.42,1,0,282.42,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.615012443860422
+HP,Notebook,15.6,2.7,8,1.84,1304.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.173958319756794
+MSI,Gaming,17.3,2.8,8,2.7,1409.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.251344983372214
+HP,Workstation,15.6,2.8,8,2.6,1738.27,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.461220763947065
+Toshiba,Notebook,15.6,2.5,16,2.4,1403.0,0,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.247080584585756
+Dell,Notebook,15.6,1.8,8,2.02,970.9,0,0,141.21,128.0,2048.0,0.0,0.0,2176.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.879252918509425
+Lenovo,Notebook,15.6,1.1,4,2.2,321.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,No OS,5.777621362991072
+Dell,Gaming,15.6,2.5,8,2.65,999.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.907755278982137
+Dell,Notebook,15.6,2.5,8,2.36,557.37,1,0,100.45,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.32502182507656
+Dell,Notebook,14.0,2.6,8,1.36,1427.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.2640301428995295
+HP,Notebook,15.6,2.0,4,1.86,439.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.0867747269123065
+Asus,Notebook,14.0,2.5,8,2.0,945.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.852242569051878
+Lenovo,Notebook,17.3,2.5,6,2.8,719.0,0,0,106.11,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.579251212010101
+HP,Notebook,15.6,2.5,8,1.86,639.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.461468176353717
+Lenovo,Notebook,15.6,2.0,8,2.2,499.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Nvidia,1,No OS,6.214608098422191
+HP,Notebook,15.6,1.6,8,2.04,389.0,0,0,100.45,0.0,2048.0,0.0,0.0,2048.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.966146739123692
+Dell,Notebook,17.3,1.6,8,2.8,1085.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.990256500493881
+Lenovo,Gaming,15.6,2.5,8,2.4,809.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,No OS,6.697034247666484
+Dell,Notebook,15.6,2.7,8,2.33,899.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.802394763324311
+HP,Ultrabook,14.0,2.7,8,1.36,1750.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.467942332285852
+Asus,2 in 1 Convertible,15.6,2.7,12,2.26,1099.0,1,0,141.21,512.0,2048.0,0.0,0.0,2560.0,1,Intel Core i7,Nvidia,1,Windows,7.003065458786462
+Acer,Notebook,15.6,3.0,4,2.1,426.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.056784013228625
+Asus,Gaming,17.3,3.0,16,3.25,2199.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,AMD Processor,AMD (Dedicated),1,Windows,7.696212639346407
+Lenovo,Notebook,17.3,2.2,4,2.6,489.0,0,0,106.11,128.0,0.0,0.0,0.0,128.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.194405391104672
+Dell,2 in 1 Convertible,13.3,1.8,8,1.62,869.01,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.768504705835444
+HP,Notebook,15.6,3.0,4,1.91,488.99,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.194384982733157
+Lenovo,Netbook,11.6,1.1,4,1.59,553.0,0,1,135.09,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,6.317164686747284
+Dell,Notebook,15.6,1.6,4,1.8,309.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.736572297479192
+Asus,Notebook,14.0,1.1,4,1.5,286.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.659482215759621
+Acer,Notebook,15.6,2.8,8,2.4,846.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Linux,6.741700694652055
+HP,Gaming,17.3,2.8,8,3.35,1191.0,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.083387847625295
+Lenovo,Notebook,15.6,2.0,4,1.85,403.5,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,No OS,6.002651736498547
+Asus,Gaming,15.6,2.8,8,2.3,1655.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.412160334945205
+Lenovo,Notebook,14.0,2.5,8,1.5,1099.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,7.003065458786462
+Asus,Ultrabook,13.3,2.7,16,1.1,1748.9,1,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.467313922427702
+Lenovo,Ultrabook,14.0,2.7,8,1.13,2282.0,0,1,209.8,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.733245646529795
+Lenovo,Notebook,13.3,2.4,4,1.5,549.0,0,1,165.63,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.309918278226516
+Dell,Workstation,15.6,2.6,8,2.23,1369.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,AMD (Dedicated),1,Windows,7.222566018822171
+Dell,Workstation,15.6,2.7,8,2.0,2135.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.666690200080086
+Lenovo,2 in 1 Convertible,14.0,2.7,16,1.42,2509.0,1,0,209.8,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.828038032125829
+Asus,Gaming,17.3,2.8,8,3.0,1039.0,0,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.946975992135418
+Asus,Gaming,17.3,2.8,16,3.0,1591.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.3727463664043285
+Acer,Notebook,15.6,1.6,12,2.2,693.99,0,1,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.5438974569720685
+MSI,Gaming,17.3,2.8,8,2.7,1349.0,0,0,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.2078598714324755
+Dell,Notebook,15.6,2.7,8,2.33,778.87,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Linux,6.659127239126539
+HP,Ultrabook,15.6,3.0,4,1.91,499.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.214608098422191
+Lenovo,Notebook,15.6,1.8,8,2.1,1229.56,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.115224629308743
+Lenovo,Notebook,14.0,2.5,8,1.9,938.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.844815479208263
+Dell,Workstation,15.6,2.8,8,1.78,2712.0,1,0,282.42,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.905810312658931
+Lenovo,Ultrabook,14.0,2.7,16,1.13,2625.0,0,1,209.8,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.873217054862741
+Lenovo,Notebook,15.6,1.1,4,2.2,306.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.726847747587197
+Asus,Gaming,17.3,2.8,16,2.9,1529.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.333023014386481
+Lenovo,Notebook,15.6,1.6,8,2.1,1144.5,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i5,AMD (Dedicated),1,Windows,7.04359650189355
+Acer,Notebook,15.6,2.8,8,2.5,879.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Linux,6.779921907472252
+MSI,Gaming,17.3,2.8,16,2.8,2249.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.718685495198466
+Asus,Ultrabook,14.0,2.7,8,1.1,1873.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.535830462798367
+Toshiba,Ultrabook,13.3,2.5,16,1.2,1747.0,0,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.466227556215481
+Dell,Ultrabook,14.0,2.8,8,1.36,1680.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.427144133408616
+Lenovo,Notebook,15.6,2.0,4,2.2,409.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.016157159698354
+Lenovo,Notebook,11.6,1.1,2,1.15,304.45,0,0,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.721786099095776
+Lenovo,Workstation,15.6,2.8,8,2.67,1925.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.563200592358071
+Lenovo,Ultrabook,14.0,2.8,8,1.7,1943.0,0,1,209.8,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.572502985020384
+HP,Notebook,15.6,2.0,4,2.1,469.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Windows,6.152732694704104
+Acer,2 in 1 Convertible,13.3,2.5,8,1.6,789.01,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.672045603608801
+Asus,2 in 1 Convertible,13.3,2.5,8,1.27,928.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.834108738813838
+Dell,Notebook,15.6,2.5,4,2.3,598.9,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Linux,6.3967629746590475
+Dell,Notebook,13.3,2.0,4,1.65,689.0,0,0,117.83,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.536691597591305
+HP,Ultrabook,14.0,2.5,8,1.43,1500.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.313886831633462
+Dell,Notebook,15.6,2.5,8,2.14,539.95,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.293326853133583
+Lenovo,Ultrabook,14.0,1.8,8,1.75,1215.38,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.103634513708157
+Lenovo,2 in 1 Convertible,15.6,2.8,16,2.0,1899.0,1,1,282.42,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.549609165154532
+Chuwi,Notebook,12.3,1.1,6,1.4,449.0,0,1,267.34,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,6.1092475827643655
+HP,Notebook,15.6,2.9,8,2.31,1427.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.2640301428995295
+Asus,Notebook,15.6,2.4,8,2.3,597.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Linux,6.393590753950631
+Dell,Gaming,17.3,2.9,16,4.42,2799.0,0,1,169.78,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.937374696163295
+Dell,Gaming,15.6,2.8,8,2.62,1159.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.05617528410041
+Dell,Notebook,15.6,1.8,8,2.02,1142.4,0,0,141.21,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.041761558829871
+Dell,Ultrabook,14.0,2.8,8,1.6,1099.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Linux,7.003065458786462
+HP,Gaming,17.3,2.8,12,3.35,1999.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.600902459542082
+Mediacom,2 in 1 Convertible,11.6,1.1,4,1.16,299.0,1,1,189.91,32.0,0.0,0.0,0.0,32.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,5.703782474656201
+Samsung,Netbook,11.6,1.6,4,1.15,269.0,0,0,135.09,0.0,0.0,16.0,0.0,16.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.598421958998375
+Lenovo,Notebook,13.3,2.7,8,1.4,1010.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.918695219020472
+Lenovo,Notebook,14.0,2.7,4,1.7,599.0,0,1,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.396929655216146
+Lenovo,Workstation,15.6,2.8,16,2.3,2445.0,0,1,282.42,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.802209316247118
+Lenovo,Notebook,15.6,2.9,16,2.5,2449.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.803843303538772
+Asus,Gaming,17.3,3.2,8,3.2,1695.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,AMD Processor,AMD (Dedicated),1,Windows,7.4360278163518485
+HP,Notebook,15.6,1.6,4,2.1,347.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.8522024797744745
+Google,Ultrabook,12.3,1.3,16,1.1,2199.0,1,0,234.51,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Chrome OS,7.696212639346407
+Lenovo,Ultrabook,14.0,2.7,24,1.32,2382.0,0,0,209.8,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.776115477098742
+Asus,Notebook,15.6,2.5,4,2.0,559.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Linux,6.327936783729195
+Lenovo,Notebook,17.3,2.5,8,2.8,519.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.253828811575473
+Dell,Notebook,15.6,1.6,4,2.2,749.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.620073206530356
+Lenovo,Ultrabook,12.5,2.5,8,1.36,1429.0,0,1,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.265429723253953
+Lenovo,Notebook,15.6,1.1,4,2.2,349.0,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,5.857933154483459
+HP,Gaming,15.6,2.8,8,2.2,1099.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.003065458786462
+Dell,Notebook,14.0,2.8,8,1.64,1179.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,7.07326971745971
+Acer,Notebook,15.6,2.5,4,2.4,441.8,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Linux,6.093118200834482
+Dell,Workstation,15.6,3.0,8,2.23,1993.0,0,0,141.21,0.0,1024.0,64.0,0.0,1088.0,0,Intel Xeon,Nvidia,1,Windows,7.597897950521784
+MSI,Gaming,15.6,2.5,8,2.2,1027.74,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.936090031409406
+Microsoft,Ultrabook,13.5,2.5,16,1.25,2589.0,1,0,200.84,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.859413154693583
+HP,Notebook,15.6,2.5,8,1.91,589.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.380122536899765
+Dell,Workstation,15.6,2.7,16,2.17,1975.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.588829878307813
+HP,Workstation,15.6,2.9,8,2.31,1534.0,0,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.336285660021297
+Lenovo,Notebook,14.0,2.5,8,1.65,1345.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.204892510204673
+Dell,Notebook,15.6,1.8,8,2.36,979.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.887552571664617
+Dell,2 in 1 Convertible,11.6,1.6,4,1.47,479.0,1,0,135.09,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,6.173786103901937
+Dell,Notebook,17.3,2.7,8,4.42,2046.0,0,1,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.624130585661289
+Microsoft,Ultrabook,13.5,2.2,4,1.252,989.0,1,0,200.84,128.0,0.0,0.0,0.0,128.0,1,Intel Core M,Intel (Integrated),0,Windows,6.897704943128636
+Microsoft,Ultrabook,13.5,2.5,8,1.25,1799.0,1,0,200.84,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.495541943884256
+HP,Notebook,17.3,2.0,8,2.5,639.9,0,0,106.11,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.462873438510181
+Acer,Notebook,15.6,2.0,4,2.23,544.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Windows,6.300785794663244
+Acer,Netbook,11.6,1.6,4,1.4,435.0,0,0,135.09,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,6.077642243349034
+Asus,Notebook,15.6,2.5,8,2.37,749.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.620073206530356
+Lenovo,Notebook,14.0,2.7,8,1.5,799.0,0,1,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,AMD (Dedicated),1,No OS,6.684611727667927
+Lenovo,Notebook,15.6,2.9,8,2.67,2090.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.645397699428633
+Asus,Notebook,15.6,1.1,4,2.0,304.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.720311776607412
+Acer,Notebook,15.6,2.0,4,2.2,469.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Nvidia,1,Windows,6.152732694704104
+Dell,Notebook,15.6,1.6,8,2.02,759.0,0,0,141.21,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.633318433280377
+HP,Gaming,17.3,2.8,12,3.78,1699.0,0,1,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.438383530044307
+Lenovo,Ultrabook,14.0,2.6,12,1.4,1858.0,0,1,209.8,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.527793987721444
+HP,2 in 1 Convertible,13.3,1.8,8,1.29,1999.0,1,1,331.26,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.600902459542082
+HP,Notebook,15.6,2.5,8,1.9,1154.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,AMD (Dedicated),1,Windows,7.051855622955894
+Google,Ultrabook,12.3,1.2,8,1.1,1275.0,1,0,234.51,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Chrome OS,7.151485463904735
+Dell,Ultrabook,13.3,1.6,8,1.42,1841.85,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.519068565317946
+Asus,Notebook,15.6,2.6,12,2.06,1299.0,0,1,282.42,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.170119543449628
+Dell,Notebook,14.0,2.3,8,1.79,740.0,0,0,111.94,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.608000625296087
+Dell,Workstation,15.6,2.8,8,1.78,2408.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.786967002614872
+Lenovo,Notebook,14.0,2.5,8,1.7,1364.0,0,0,157.35,180.0,0.0,0.0,0.0,180.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.21890970761906
+Dell,Notebook,15.6,1.6,8,2.2,675.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.516193076042964
+Toshiba,Notebook,13.3,2.5,8,1.05,1672.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.422373700986824
+Dell,Notebook,15.6,1.8,8,2.16,1262.0,0,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.141245122350491
+Dell,Notebook,15.6,2.4,4,2.18,586.6,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.376046444299722
+HP,Notebook,13.3,1.6,4,1.49,726.0,0,1,165.63,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.588926477533519
+Chuwi,Notebook,15.6,1.44,4,1.89,248.9,0,0,141.21,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.521060837840906
+Lenovo,Notebook,15.6,2.0,4,2.3,565.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.338594078203183
+Lenovo,Notebook,14.0,1.6,8,1.75,1049.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.956545443151569
+Dell,Workstation,15.6,2.7,16,2.17,2338.0,0,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.757478766584179
+Dell,Notebook,15.6,2.8,16,2.06,1899.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.549609165154532
+Lenovo,Ultrabook,12.5,2.7,16,1.36,1798.0,0,1,176.23,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.4949862339505335
+Asus,Ultrabook,12.5,2.7,16,0.91,1950.0,0,0,176.23,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.576097340623111
+Lenovo,Notebook,15.6,2.5,8,2.3,1011.99,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.920661632531647
+Toshiba,Ultrabook,13.3,2.7,32,1.05,2799.0,1,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.937374696163295
+Asus,Gaming,15.6,2.8,8,1.99,1350.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.208600337960199
+Acer,Notebook,15.6,2.5,8,2.2,579.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.363028103540465
+Asus,Gaming,17.3,2.6,24,4.33,1269.0,1,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.146772179452637
+Lenovo,Ultrabook,12.5,2.3,8,1.3,1099.0,0,1,125.37,180.0,0.0,0.0,0.0,180.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.003065458786462
+Lenovo,Notebook,15.6,1.8,8,2.17,898.9,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.8022836460399025
+HP,Notebook,14.0,2.8,8,1.48,1749.0,0,0,157.35,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.4673710669175595
+Lenovo,Notebook,13.3,2.4,8,1.4,949.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.856461984594587
+Lenovo,Notebook,15.6,2.5,8,2.3,911.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.815639990074331
+Asus,Netbook,11.6,1.1,4,1.2,340.0,0,0,135.09,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.831882477283517
+HP,Notebook,15.6,2.5,8,1.91,618.99,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.429703348876805
+Lenovo,2 in 1 Convertible,13.9,1.6,8,1.4,1599.0,1,1,158.48,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.3777589082278725
+Lenovo,Notebook,14.0,1.1,4,2.1,299.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.703782474656201
+Lenovo,Netbook,11.6,1.6,4,1.25,265.0,0,0,135.09,16.0,0.0,0.0,0.0,16.0,1,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.583496308781699
+Lenovo,Notebook,13.3,2.5,8,1.44,949.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.856461984594587
+Asus,Notebook,15.6,2.7,8,2.0,1224.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.110696122978827
+Acer,Notebook,15.6,1.6,4,2.2,613.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.419994928147142
+HP,Ultrabook,13.3,2.7,8,1.34,1323.0,0,1,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.188412736496954
+Lenovo,Gaming,15.6,2.8,8,2.4,1149.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,No OS,7.047517221357296
+Dell,Ultrabook,13.3,2.5,8,1.29,899.0,1,1,165.63,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.802394763324311
+Acer,Notebook,15.6,2.7,4,2.2,639.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i7,Nvidia,1,Windows,6.461468176353717
+Dell,Notebook,15.6,2.5,8,2.18,836.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.729824070489475
+Dell,Notebook,15.6,1.8,16,2.2,1219.24,0,0,141.21,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.106802839691678
+Xiaomi,Notebook,15.6,1.8,16,1.95,1399.95,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,No OS,7.244905856906428
+Asus,Netbook,11.6,1.1,2,1.1,245.0,0,0,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.5053315359323625
+HP,Notebook,15.6,1.6,4,2.04,521.47,1,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.258567565922647
+Asus,Gaming,15.6,2.8,24,2.24,2968.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.99598047476376
+HP,Notebook,15.6,2.5,8,2.04,889.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.7912214627261855
+Asus,Gaming,17.3,2.8,16,3.0,1504.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.316548177182976
+Lenovo,Gaming,15.6,2.8,8,3.2,1399.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.24422751560335
+HP,Ultrabook,13.3,2.7,8,1.32,1399.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.24422751560335
+Dell,Notebook,14.0,2.6,8,1.64,1279.73,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.155185506847295
+HP,Notebook,15.6,2.0,4,1.63,689.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.536691597591305
+Dell,Notebook,17.3,1.6,8,2.8,889.0,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,AMD (Dedicated),1,Linux,6.7912214627261855
+Lenovo,Notebook,14.0,2.3,8,2.02,1340.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.201170883281678
+Lenovo,Notebook,15.6,2.7,4,2.2,799.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.684611727667927
+Lenovo,Notebook,15.6,2.0,8,2.2,459.0,0,0,100.45,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i3,Nvidia,1,No OS,6.131226489483141
+Dell,Notebook,15.6,2.5,4,2.3,585.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.373319789577012
+Dell,Notebook,15.6,2.8,8,1.9,1377.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.228388451573604
+Dell,Gaming,17.3,2.8,16,4.42,3012.77,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,8.01094706572388
+Toshiba,Notebook,15.6,2.5,8,2.0,860.0,0,1,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.7580945044277305
+Asus,Notebook,15.6,2.7,8,2.0,1299.0,0,1,282.42,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.170119543449628
+Mediacom,Notebook,13.3,1.1,4,1.2,369.0,0,1,165.63,32.0,0.0,0.0,0.0,32.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,5.91350300563827
+Asus,Gaming,15.6,2.5,8,2.3,1649.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,7.408530566894626
+Dell,Notebook,15.6,2.8,8,1.93,1369.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.222566018822171
+Dell,Notebook,15.6,1.6,8,2.2,797.41,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.682622249968917
+HP,Notebook,15.6,1.6,4,1.86,398.99,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,5.991439546795477
+HP,Gaming,17.3,2.8,12,2.62,1799.0,0,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.495541943884256
+Lenovo,Notebook,14.0,2.7,8,1.87,859.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.756932389247553
+Dell,Ultrabook,13.3,1.8,8,1.2,1399.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.24422751560335
+Dell,Notebook,14.0,2.0,4,1.6,735.87,0,0,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.602411485857249
+HP,Ultrabook,13.3,2.7,8,1.34,1145.0,0,1,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.044032897274685
+Acer,Gaming,15.6,2.5,8,2.4,798.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Linux,6.683360945766275
+Asus,Notebook,15.6,1.8,4,2.0,349.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.857933154483459
+HP,Notebook,15.6,2.4,4,2.1,705.5,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.560323202124582
+Lenovo,Notebook,14.0,2.5,4,1.87,785.0,0,0,157.35,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.666956792429207
+Lenovo,Notebook,15.6,2.3,4,2.15,462.35,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,No OS,6.138482708032701
+HP,Notebook,15.6,2.0,4,1.86,397.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,5.986452005284438
+Lenovo,Notebook,15.6,2.7,8,1.99,1729.0,0,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.455876687491824
+Lenovo,Notebook,15.6,2.0,4,2.2,499.0,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.214608098422191
+Dell,Notebook,15.6,2.5,8,1.9,1116.99,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.019287709131214
+Dell,Gaming,17.3,2.8,16,4.42,2699.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.90100705199242
+HP,Notebook,17.3,2.0,8,2.65,544.15,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.3010609861523905
+HP,Notebook,17.3,2.7,8,2.63,1280.0,0,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.155396301896734
+Asus,Notebook,15.6,1.1,4,2.0,224.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Linux,5.41610040220442
+Mediacom,Notebook,13.3,1.44,4,1.35,255.0,0,1,165.63,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.545177444479562
+Lenovo,Notebook,17.3,2.7,6,2.8,949.0,0,0,106.11,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,6.856461984594587
+HP,Notebook,15.6,2.5,6,1.91,568.9,0,1,141.21,128.0,0.0,0.0,0.0,128.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.3454609068409535
+Dell,Notebook,15.6,2.0,4,2.18,617.9,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Windows,6.427943708745316
+Acer,2 in 1 Convertible,11.6,2.0,4,1.25,349.0,1,1,189.91,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.857933154483459
+Lenovo,Notebook,15.6,2.7,4,2.05,630.0,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.447305862541213
+HP,Ultrabook,13.3,1.2,16,1.16,1965.0,1,1,276.05,512.0,0.0,0.0,0.0,512.0,1,Intel Core M,Intel (Integrated),0,Windows,7.583756300707112
+Lenovo,Notebook,17.3,2.8,8,3.4,2999.0,0,1,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,8.006367567650246
+Asus,Notebook,15.6,2.5,8,2.5,839.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.733401891837359
+Dell,Ultrabook,13.3,1.6,8,1.21,1599.0,1,1,331.26,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.3777589082278725
+Dell,Notebook,15.6,2.6,4,1.93,959.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.866933284461882
+Fujitsu,Notebook,15.6,2.5,8,2.2,739.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.606650186198215
+Lenovo,Notebook,15.6,1.1,4,2.2,344.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.84354441703136
+Lenovo,Notebook,14.0,2.5,4,2.02,990.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.898714534329988
+HP,Workstation,17.3,2.8,8,3.14,1860.99,0,0,106.11,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Nvidia,1,Windows,7.52940108725331
+HP,Notebook,14.0,1.6,8,1.94,389.0,0,0,111.94,0.0,2048.0,0.0,0.0,2048.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.966146739123692
+HP,Notebook,15.6,3.0,6,1.95,649.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.476972362889683
+Lenovo,Notebook,15.6,2.5,8,2.3,830.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.7226297948554485
+Lenovo,Notebook,15.6,1.6,4,2.05,685.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.530877627725885
+Mediacom,Notebook,14.0,1.44,4,1.4,249.0,0,0,157.35,32.0,0.0,0.0,0.0,32.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,5.521460917862246
+Toshiba,Ultrabook,14.0,2.7,16,1.24,1865.0,1,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.531552381407289
+Lenovo,Gaming,17.3,2.7,32,4.6,2663.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.88758403166028
+MSI,Gaming,17.3,2.9,16,4.14,2729.0,0,0,127.34,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,7.912056888179006
+Dell,Notebook,15.6,2.7,8,2.2,749.01,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Linux,6.620086539774801
+Mediacom,Notebook,14.0,1.1,4,1.45,389.0,0,1,157.35,32.0,0.0,0.0,0.0,32.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,5.966146739123692
+Dell,Notebook,15.6,2.6,8,1.9,1008.52,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.917230249344655
+HP,Notebook,13.3,2.4,4,1.49,719.0,0,0,165.63,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.579251212010101
+Dell,Notebook,15.6,2.8,16,1.93,1537.39,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.338491693993433
+Dell,Netbook,11.6,1.6,4,1.26,295.0,0,0,135.09,0.0,0.0,16.0,0.0,16.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.69035945432406
+MSI,Gaming,17.3,2.7,16,4.5,2349.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.762170607138205
+HP,Gaming,17.3,2.8,16,3.78,1498.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.312553498102598
+Lenovo,Ultrabook,14.0,2.6,12,1.4,1673.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.422971251049421
+Lenovo,Notebook,15.6,1.8,12,2.2,609.0,1,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.413458957167357
+Asus,Gaming,17.3,2.5,8,2.73,1770.0,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,7.479299637782834
+Asus,2 in 1 Convertible,15.6,2.5,8,2.2,739.0,1,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.606650186198215
+Lenovo,Notebook,15.6,3.6,12,2.2,949.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.856461984594587
+Dell,2 in 1 Convertible,11.6,1.0,4,1.39,603.0,1,0,135.09,128.0,0.0,0.0,0.0,128.0,1,Intel Core M,Intel (Integrated),0,Windows,6.403574197934815
+Samsung,Notebook,15.6,2.8,16,2.5,1699.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.438383530044307
+Lenovo,Notebook,17.3,2.0,4,2.8,529.0,0,0,127.34,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,No OS,6.272877006546167
+Lenovo,Notebook,15.6,2.3,8,2.29,459.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.131226489483141
+Lenovo,2 in 1 Convertible,13.3,2.7,8,1.37,2025.0,1,1,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.613818684808629
+Lenovo,Notebook,14.0,2.5,8,1.7,1474.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.29641326877392
+Dell,2 in 1 Convertible,12.5,2.5,8,1.34,1670.0,1,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.421177528595393
+Dell,Workstation,15.6,2.8,8,2.06,1763.0,1,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.475339236566737
+HP,Notebook,15.6,2.7,8,1.84,1219.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.106606137727303
+HP,Notebook,15.6,2.4,4,2.1,668.48,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.506501291645438
+Acer,Notebook,14.0,1.1,4,1.6,329.0,0,0,157.35,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.799092654460526
+MSI,Gaming,17.3,2.7,16,4.14,2199.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.696212639346407
+Dell,Notebook,15.6,2.0,4,2.18,465.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Linux,6.144185634125646
+MSI,Gaming,15.6,2.8,16,1.8,2299.0,0,0,282.42,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,Nvidia,1,Windows,7.7406644019172415
+Toshiba,Notebook,15.6,2.5,8,2.2,1399.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.24422751560335
+Lenovo,Notebook,15.6,2.5,6,2.4,564.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.336825731146441
+Lenovo,2 in 1 Convertible,15.6,2.8,8,2.0,1299.0,1,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.170119543449628
+Acer,Notebook,14.0,1.6,4,1.6,349.0,0,0,111.94,0.0,0.0,128.0,0.0,128.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.857933154483459
+Lenovo,Notebook,15.6,3.1,32,2.5,4899.0,0,1,282.42,1024.0,0.0,0.0,0.0,1024.0,1,Intel Xeon,Nvidia,1,Windows,8.496990484098719
+Dell,Gaming,15.6,2.6,16,2.59,879.01,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.77993327104405
+Dell,Notebook,15.6,2.0,4,2.18,443.9,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Linux,6.097849537811996
+Dell,Notebook,15.6,2.0,4,2.25,359.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Linux,5.886104031450156
+Dell,Notebook,15.6,2.6,4,1.93,869.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Linux,6.76849321164863
+Asus,Gaming,17.3,2.8,8,3.0,1168.0,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.063903961472068
+Dell,Notebook,15.6,2.5,4,2.18,569.0,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,AMD (Dedicated),1,Linux,6.345636360828596
+HP,Ultrabook,15.6,2.7,8,1.84,1389.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.237059026124737
+MSI,Gaming,15.6,2.8,16,2.94,2267.86,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.727032781686294
+Acer,2 in 1 Convertible,11.6,1.6,4,1.25,379.0,1,1,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.940171252720432
+HP,Notebook,14.0,2.6,8,2.31,1124.0,0,0,111.94,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.025538314638521
+Lenovo,Notebook,14.0,2.3,8,1.65,1465.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.290292882446597
+Dell,Notebook,15.6,1.6,4,2.2,776.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.655440350367647
+Fujitsu,Notebook,15.6,2.5,8,2.2,799.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.684611727667927
+HP,Notebook,15.6,2.3,4,1.88,932.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.838405200847344
+Lenovo,Notebook,15.6,2.7,8,2.2,899.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.802394763324311
+Mediacom,Notebook,14.0,1.44,2,1.4,239.0,0,0,157.35,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.480638923341991
+Lenovo,Notebook,15.6,2.5,4,2.2,468.0,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,No OS,6.150602768446279
+Asus,2 in 1 Convertible,13.3,2.5,6,1.5,639.01,1,0,165.63,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.4614838012316484
+Dell,Notebook,15.6,2.8,8,2.0,1820.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.507141079727608
+Asus,Ultrabook,14.0,2.7,16,1.1,1900.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.550135342488429
+Dell,Gaming,15.6,2.8,16,2.62,1479.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.299797366758161
+Lenovo,Notebook,15.6,1.6,4,1.8,829.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.721425700790643
+Lenovo,Notebook,15.6,2.0,4,2.2,579.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Windows,6.363028103540465
+Asus,Notebook,15.6,1.1,8,2.0,399.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.991464547107982
+Asus,Notebook,15.6,2.5,8,1.99,906.62,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.810825788802163
+Dell,Ultrabook,13.3,1.6,8,1.23,1869.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.533693709848633
+Lenovo,Notebook,14.0,1.6,2,1.42,249.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.521460917862246
+Lenovo,2 in 1 Convertible,13.3,2.7,8,1.37,1757.42,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.472170957561016
+Dell,Notebook,15.6,2.8,16,2.06,2399.0,1,0,282.42,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Nvidia,1,Windows,7.783224016336037
+Lenovo,Gaming,15.6,2.8,8,2.5,1109.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.01211529430638
+HP,Notebook,17.0,3.0,8,2.6,520.9,0,0,107.99,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.257475998649367
+Lenovo,Ultrabook,14.0,2.7,16,1.14,2450.0,0,1,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.804251383528112
+Asus,Gaming,15.6,2.8,8,2.5,1169.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,No OS,7.064759027791802
+Acer,Notebook,15.6,2.0,4,2.4,450.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.111467339502679
+Lenovo,Notebook,14.0,1.6,4,1.43,274.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.616771097666572
+Acer,Ultrabook,14.0,2.5,8,1.8,919.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.824373670043086
+Razer,Gaming,14.0,2.8,16,1.95,2599.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.8632667240095735
+Toshiba,Notebook,13.3,2.3,8,1.2,1213.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.101675971619444
+Lenovo,Ultrabook,12.5,2.7,8,1.36,1584.0,0,1,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.368339686311381
+Asus,Gaming,17.3,2.7,32,3.8,2799.0,0,1,127.34,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.937374696163295
+Acer,Gaming,15.6,2.5,8,2.4,709.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Linux,6.565264970035361
+Dell,Ultrabook,13.3,1.6,8,1.2,1449.9,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.279939332521639
+MSI,Gaming,15.6,2.8,8,2.2,1191.8,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.084058763450528
+HP,Notebook,15.6,2.0,4,1.86,364.9,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,No OS,5.902360072025161
+Toshiba,Notebook,15.6,2.5,8,2.0,1064.0,0,1,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.970730078143525
+Dell,Notebook,15.6,1.8,8,2.2,919.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.824373670043086
+Dell,Notebook,15.6,1.8,16,2.2,1135.0,0,0,141.21,256.0,2048.0,0.0,0.0,2304.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.035268599281097
+Lenovo,Gaming,15.6,2.6,8,3.31,1196.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.087573705557973
+Dell,Gaming,17.3,2.8,32,4.42,3147.37,0,1,254.67,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,8.054640137573424
+Dell,Notebook,14.0,2.4,8,1.56,1229.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.114769448366463
+Lenovo,Notebook,15.6,1.1,4,2.2,419.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,6.040254711277414
+Lenovo,Notebook,15.6,2.3,4,2.2,535.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.284134161070802
+HP,Notebook,15.6,2.0,6,2.04,539.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Windows,6.29156913955832
+MSI,Gaming,17.3,2.8,8,2.7,1486.77,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.305033633553407
+Toshiba,Notebook,15.6,2.1,4,2.1,498.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.212606095751519
+Dell,Notebook,15.6,2.5,8,2.06,955.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.862757913051401
+HP,Notebook,15.6,2.7,8,2.1,745.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Windows,6.61472560020376
+Toshiba,Notebook,15.6,2.5,8,2.0,1258.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.138073034044347
+Acer,Notebook,15.6,2.0,4,2.1,412.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Linux,6.023447592961033
+Microsoft,Ultrabook,13.5,2.8,8,1.252,1867.85,1,0,200.84,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.533078547412982
+Lenovo,Notebook,15.6,2.5,8,1.9,817.95,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.708023031928389
+Lenovo,2 in 1 Convertible,13.3,2.5,8,1.3,1034.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.942156705699469
+Lenovo,Notebook,15.6,2.2,4,2.2,349.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,AMD Processor,AMD (Dedicated),1,Windows,5.857933154483459
+HP,2 in 1 Convertible,14.0,2.4,4,1.63,699.0,1,1,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Nvidia,1,Windows,6.551080335043404
+MSI,Gaming,15.6,2.8,16,2.4,1294.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.166265974133638
+Asus,Ultrabook,14.0,2.5,8,1.1,1135.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.035268599281097
+HP,2 in 1 Convertible,11.6,1.1,8,1.4,495.0,1,0,135.09,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,6.206575926724928
+LG,Ultrabook,15.6,1.8,8,1.09,2299.0,0,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.7406644019172415
+Acer,Gaming,15.6,2.5,16,2.5,1299.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,7.170119543449628
+MSI,Gaming,15.6,2.5,8,2.2,997.9,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.906654673538104
+Asus,Notebook,15.6,1.1,4,1.86,419.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,6.040254711277414
+Dell,Gaming,15.6,2.5,16,3.21,2051.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,7.62657020629066
+HP,Notebook,17.3,2.0,4,2.5,699.0,0,1,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,AMD (Dedicated),1,Windows,6.551080335043404
+Lenovo,2 in 1 Convertible,13.3,1.8,8,1.19,1499.0,1,1,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.313220387090301
+Dell,Gaming,15.6,2.9,16,3.49,2813.75,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.94262872668324
+HP,Notebook,15.6,2.5,4,1.86,612.61,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.4193595471823075
+Dell,Notebook,15.6,2.0,4,2.2,545.67,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Windows,6.30384532969252
+HP,Notebook,17.3,2.4,6,2.65,569.0,0,1,127.34,0.0,2048.0,0.0,0.0,2048.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.345636360828596
+Lenovo,Notebook,15.6,1.6,4,2.1,318.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.765191102784844
+Acer,Notebook,14.0,1.6,4,1.45,375.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.929589143389895
+Lenovo,Notebook,14.0,2.5,4,1.7,699.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.551080335043404
+HP,Workstation,17.3,2.8,8,3.14,1907.99,0,0,127.34,0.0,500.0,0.0,0.0,500.0,0,Intel Core i7,Nvidia,1,Windows,7.554329585367344
+Lenovo,2 in 1 Convertible,14.0,2.7,8,1.42,2590.0,1,0,209.8,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.85979918056211
+Toshiba,Notebook,13.3,2.5,8,1.5,973.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.881411303642535
+Acer,Netbook,11.6,1.6,4,1.4,269.0,0,0,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.598421958998375
+Lenovo,2 in 1 Convertible,14.0,2.7,16,1.38,1749.0,1,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.4673710669175595
+Asus,2 in 1 Convertible,12.5,0.9,4,1.2,669.0,1,0,176.23,0.0,0.0,64.0,0.0,64.0,0,Intel Core M,Intel (Integrated),0,Chrome OS,6.507277712385012
+Toshiba,Ultrabook,13.3,2.5,16,1.36,1877.0,1,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.537962659768208
+HP,Notebook,15.6,2.7,4,2.1,689.0,0,1,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i7,AMD (Dedicated),1,Windows,6.536691597591305
+Dell,Gaming,15.6,2.5,8,2.56,819.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.709304340258298
+Lenovo,Notebook,15.6,2.9,4,2.2,399.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,5.991464547107982
+Lenovo,Notebook,15.6,3.6,8,2.2,429.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.063785208687608
+Lenovo,Notebook,15.6,2.5,4,2.1,621.45,0,0,141.21,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.433663303827795
+Lenovo,Notebook,15.6,2.0,4,1.9,450.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,No OS,6.111467339502679
+Dell,Notebook,15.6,2.5,8,2.18,795.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.679599185844383
+Acer,2 in 1 Convertible,13.3,1.6,8,1.6,999.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.907755278982137
+Lenovo,Workstation,15.6,2.5,16,2.18,1855.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.526178913346146
+Lenovo,Notebook,14.0,2.3,8,1.8,1191.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.083387847625295
+HP,Notebook,17.3,2.5,6,2.71,655.01,0,1,127.34,0.0,2048.0,0.0,0.0,2048.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.486176032730341
+Lenovo,Gaming,15.6,2.8,8,2.5,1249.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.1308988302963465
+Dell,Notebook,14.0,2.8,8,1.64,1089.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Linux,6.993932975223189
+Dell,Notebook,15.6,2.5,8,1.98,726.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Linux,6.588926477533519
+Asus,Notebook,14.0,1.1,4,1.5,298.0,0,0,157.35,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.700443573390687
+Dell,Notebook,15.6,2.6,16,1.93,1426.66,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.263792019312263
+Lenovo,Notebook,14.0,2.5,8,1.87,857.07,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.754685681241666
+Dell,Notebook,15.6,2.6,8,1.9,1179.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.07326971745971
+Lenovo,Notebook,15.6,2.0,4,2.19,298.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.700443573390687
+Mediacom,Notebook,14.0,1.92,4,1.4,265.0,0,1,161.73,0.0,32.0,0.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.583496308781699
+HP,Notebook,17.3,2.7,8,2.63,1200.0,0,0,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.0909098220799835
+Lenovo,Ultrabook,14.0,2.5,8,1.17,1686.64,0,1,209.8,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.431086382268411
+HP,2 in 1 Convertible,13.3,2.5,8,1.58,836.6,1,1,117.83,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.730540659556327
+Lenovo,Ultrabook,14.0,2.5,8,1.32,1499.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.313220387090301
+Dell,Gaming,17.3,2.8,32,4.36,3659.4,0,0,254.67,1024.0,1024.0,0.0,0.0,2048.0,1,Intel Core i7,Nvidia,1,Windows,8.205327710041223
+MSI,Gaming,17.3,2.8,8,2.7,1348.48,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.207474612044422
+Lenovo,Notebook,15.6,2.5,4,1.9,489.9,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,No OS,6.196240441064007
+Dell,Notebook,15.6,1.6,8,2.2,719.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.579251212010101
+Dell,2 in 1 Convertible,13.3,2.4,4,1.71,649.0,1,0,165.63,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.476972362889683
+Dell,Notebook,15.6,2.5,8,2.32,589.52,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Linux,6.3810035046658875
+HP,Notebook,15.6,3.0,4,2.1,489.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.194405391104672
+Acer,Gaming,17.3,2.6,16,4.2,1935.0,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.568379267836522
+Dell,Notebook,15.6,2.5,12,2.25,649.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.476972362889683
+HP,Notebook,15.6,3.0,6,2.1,650.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.478509642208569
+Acer,Notebook,15.6,2.5,4,2.4,559.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.327936783729195
+Lenovo,Notebook,13.3,2.5,8,1.44,960.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.8679744089702925
+Lenovo,Notebook,15.6,2.7,4,1.85,779.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.659293919683638
+HP,Workstation,15.6,2.8,16,2.6,2419.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.791522819150732
+Dell,2 in 1 Convertible,13.3,1.6,8,1.55,659.0,1,0,165.63,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.492239835020471
+MSI,Gaming,15.6,2.8,16,1.8,2094.48,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.647537923058067
+Acer,Notebook,15.6,2.0,4,2.4,410.8,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.0205377945936895
+Dell,Notebook,15.6,2.7,8,2.0,1207.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.0967213784947605
+Dell,Notebook,15.6,2.0,8,2.0,665.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.501289670540389
+Toshiba,Notebook,14.0,2.5,8,1.25,1535.0,1,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.336936913707618
+Lenovo,2 in 1 Convertible,14.0,2.5,8,1.7,999.0,1,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.907755278982137
+Lenovo,Workstation,15.6,2.8,16,2.5,3299.0,0,1,282.42,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Nvidia,1,Windows,8.101677747454572
+Acer,Notebook,14.0,1.6,2,1.68,330.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.802118375377063
+Samsung,Ultrabook,13.3,2.7,16,0.81,1649.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.408530566894626
+HP,Notebook,15.6,2.0,8,1.86,539.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.29156913955832
+Dell,Notebook,14.0,2.5,8,1.6,1126.71,0,0,111.94,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.027944306805558
+HP,Workstation,17.3,2.9,16,3.0,4389.0,0,1,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Xeon,Nvidia,1,Windows,8.387084506069217
+Lenovo,Netbook,11.6,1.6,4,1.4,475.0,1,0,135.09,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,6.16541785423142
+HP,Notebook,15.6,2.4,8,1.84,1900.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.550135342488429
+Asus,Notebook,15.6,2.3,4,2.45,579.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,No OS,6.363028103540465
+Lenovo,Ultrabook,14.0,2.3,4,1.7,1096.0,0,0,157.35,180.0,0.0,0.0,0.0,180.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.00033446027523
+Asus,Notebook,15.6,2.7,4,2.37,849.9,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.746294612855512
+Lenovo,2 in 1 Convertible,13.3,1.8,8,1.3,1199.0,1,1,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.090076835776092
+HP,Notebook,15.6,2.5,8,2.2,1099.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,7.003065458786462
+HP,Workstation,15.6,2.6,8,2.59,1561.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.3537223303996315
+Dell,Gaming,15.6,2.8,16,4.42,2868.99,0,1,282.42,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.962063824427039
+Acer,Notebook,15.6,2.5,4,2.1,599.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.396929655216146
+Lenovo,Gaming,15.6,2.8,8,2.5,1048.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,6.955592608396297
+Dell,Ultrabook,12.5,2.8,16,1.18,1859.0,0,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.528331766707247
+Google,Ultrabook,12.3,1.2,8,1.1,1559.0,1,0,234.51,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Chrome OS,7.352441100243583
+Asus,Ultrabook,13.3,2.5,8,1.2,1129.0,0,1,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.029972911706386
+Dell,Notebook,13.3,2.0,4,1.65,849.0,0,0,117.83,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.745236349484363
+Acer,Notebook,13.3,2.3,4,1.6,655.0,0,0,117.83,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.486160788944089
+Asus,Notebook,17.3,1.1,4,2.8,470.34,0,0,90.58,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Nvidia,1,Windows,6.155579701959949
+Dell,Gaming,15.6,2.6,16,2.72,1099.0,1,1,282.42,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.003065458786462
+Samsung,Ultrabook,13.3,2.7,8,1.31,1599.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.3777589082278725
+Acer,Notebook,15.6,1.1,4,2.1,298.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Linux,5.700443573390687
+Dell,Notebook,15.6,2.7,16,2.3,1181.27,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.075191598276645
+Samsung,2 in 1 Convertible,15.0,2.7,16,1.71,1799.0,1,0,146.86,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.495541943884256
+Toshiba,Notebook,14.0,2.3,4,1.75,1020.0,0,1,111.94,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.928537818164665
+Dell,Gaming,15.6,2.8,8,2.62,1099.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.003065458786462
+HP,Ultrabook,12.5,2.3,4,1.26,1244.0,0,0,125.37,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.126890808898808
+Asus,2 in 1 Convertible,15.6,2.7,12,2.3,839.0,1,0,141.21,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i7,Nvidia,1,Windows,6.733401891837359
+Lenovo,Notebook,15.6,2.7,16,2.5,2370.0,0,0,282.42,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.771067086065406
+Acer,Notebook,14.0,2.4,4,1.8,636.0,0,1,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.456769655572163
+Razer,Gaming,14.0,2.8,16,1.95,2899.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.9724660159745655
+Asus,Notebook,15.6,1.1,8,2.0,581.9,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,6.368015645051504
+Dell,Gaming,17.3,2.8,32,4.42,3588.8,0,1,127.34,1024.0,1024.0,0.0,0.0,2048.0,1,Intel Core i7,Nvidia,1,Windows,8.18585176962404
+Asus,Gaming,17.3,2.6,16,4.3,2350.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.762596048540069
+Toshiba,Ultrabook,14.0,2.6,16,1.47,1764.0,0,1,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.475905969367397
+Lenovo,Notebook,15.6,1.6,8,2.2,329.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,No OS,5.799092654460526
+Lenovo,Ultrabook,14.0,2.7,16,1.7,2299.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.7406644019172415
+MSI,Gaming,14.0,2.8,16,1.6,1891.0,0,1,157.35,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.545389749611823
+MSI,Gaming,15.6,2.5,8,2.2,1089.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.993932975223189
+Lenovo,Gaming,15.6,2.8,4,2.4,999.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.907755278982137
+Acer,Gaming,17.3,2.8,16,4.2,2299.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.7406644019172415
+Dell,Gaming,15.6,2.5,8,2.62,985.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.893656354602635
+Asus,Gaming,15.6,2.8,8,2.24,1339.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.200424892944957
+Vero,Notebook,14.0,1.1,4,1.22,202.9,0,0,157.35,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.31762967758041
+Lenovo,2 in 1 Convertible,13.3,2.7,8,1.37,1970.0,1,1,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.58629630715272
+Lenovo,2 in 1 Convertible,15.6,2.5,8,2.08,959.0,1,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.866933284461882
+Apple,Ultrabook,12.0,1.2,8,0.92,1165.0,0,1,226.42,0.0,0.0,512.0,0.0,512.0,0,Intel Core M,Intel (Integrated),0,macOS,7.061334366910438
+Lenovo,2 in 1 Convertible,14.0,2.5,8,1.42,2330.0,1,1,209.8,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.754052639035757
+Asus,Notebook,14.0,1.1,4,1.63,299.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.703782474656201
+Dell,Notebook,15.6,2.5,8,1.95,810.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.698268054115413
+Lenovo,2 in 1 Convertible,13.9,2.7,8,1.38,1349.0,1,1,158.48,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.2078598714324755
+Dell,Notebook,15.6,2.0,8,2.0,739.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,AMD (Dedicated),1,Windows,6.606650186198215
+HP,Workstation,15.6,2.8,8,3.14,2064.9,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.633321245797583
+Asus,Notebook,15.6,2.5,8,2.37,1099.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.003065458786462
+Dell,Ultrabook,13.3,2.5,8,1.29,1499.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.313220387090301
+Dell,Notebook,15.6,2.5,8,2.06,1749.0,1,0,282.42,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,7.4673710669175595
+Dell,Netbook,11.6,1.1,4,1.63,744.0,0,0,135.09,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,6.61338421837956
+HP,Netbook,12.5,2.6,8,1.26,1389.0,0,0,125.37,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.237059026124737
+Toshiba,Notebook,15.6,2.3,4,2.1,780.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.660575149839686
+HP,Notebook,15.6,2.5,8,2.04,629.0,0,0,100.45,0.0,2048.0,0.0,0.0,2048.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.4457198193855785
+Dell,Gaming,15.6,2.8,16,2.62,1679.0,0,0,282.42,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.426549072397305
+Lenovo,Notebook,15.6,2.5,4,2.4,609.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.413458957167357
+HP,Gaming,17.3,2.8,12,3.74,1749.0,0,1,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Windows,7.4673710669175595
+MSI,Gaming,17.3,2.8,16,2.9,2415.0,0,0,127.34,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,7.789868559054706
+Samsung,Ultrabook,13.3,2.5,8,0.81,1499.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.313220387090301
+Dell,Notebook,15.6,2.7,8,1.98,961.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.8690144506657065
+Dell,Notebook,15.6,2.5,8,2.18,789.81,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.673057736638866
+Lenovo,Ultrabook,14.0,2.7,8,1.32,1859.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.528331766707247
+Razer,Ultrabook,12.5,2.5,16,1.29,1799.0,1,1,352.47,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.495541943884256
+HP,Netbook,11.6,1.6,4,1.23,385.0,0,0,135.09,0.0,0.0,16.0,0.0,16.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.955837369464831
+Dell,Gaming,17.3,2.8,16,4.36,2505.02,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.826451116270136
+Dell,Notebook,14.0,2.3,4,1.76,755.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.628041376179533
+Lenovo,Notebook,15.6,2.0,4,2.1,489.9,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.196240441064007
+Toshiba,Ultrabook,14.0,2.5,4,1.25,1090.0,0,0,111.94,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.994849985833071
+Lenovo,Ultrabook,14.0,2.7,8,1.13,2499.0,0,1,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.824046010856292
+MSI,Gaming,15.6,2.5,8,2.4,1199.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,7.090076835776092
+Lenovo,Ultrabook,14.0,2.5,8,1.13,1875.0,0,1,157.35,0.0,0.0,256.0,0.0,256.0,0,Intel Core i5,Intel (Integrated),0,Windows,7.53689712956617
+Toshiba,Notebook,14.0,2.1,4,1.75,499.0,0,0,111.94,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,6.214608098422191
+Asus,2 in 1 Convertible,13.3,2.5,8,1.1,1358.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.214504414151143
+Dell,Notebook,14.0,2.0,4,1.76,585.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.373319789577012
+Acer,Netbook,11.6,1.6,4,1.35,355.0,0,1,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.87493073085203
+Acer,Notebook,14.0,2.4,8,1.5,619.0,0,1,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.429719478039138
+Razer,Gaming,17.3,2.9,32,3.49,5499.0,1,0,254.67,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,8.612503371220562
+Lenovo,Ultrabook,14.0,2.6,16,1.1,2099.0,0,1,209.8,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.649692623711514
+Asus,Notebook,15.6,2.5,4,2.1,519.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Linux,6.253828811575473
+Lenovo,Notebook,14.0,2.3,8,1.7,1186.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.079184394609668
+Lenovo,Notebook,14.0,2.6,8,1.32,1650.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.409136443920128
+Dell,Gaming,15.6,2.8,16,3.21,2774.63,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.928633027440826
+Asus,Gaming,17.3,2.8,16,2.9,2419.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.791522819150732
+Toshiba,Notebook,15.6,2.4,4,2.0,669.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.507277712385012
+Lenovo,Notebook,14.0,1.6,4,1.5,325.0,0,0,111.94,0.0,0.0,16.0,0.0,16.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.786897381366708
+Asus,Notebook,15.6,2.5,8,2.3,590.0,0,0,141.21,0.0,128.0,0.0,0.0,128.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.3818160174060985
+Asus,Gaming,17.3,2.6,16,2.73,1799.0,0,0,127.34,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,7.495541943884256
+Dell,Gaming,17.3,2.8,32,4.42,3072.89,0,1,127.34,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,8.030699139463483
+HP,Notebook,17.3,2.5,8,2.63,910.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.814542897259958
+Dell,Notebook,15.6,2.5,8,2.18,713.99,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.572268556582216
+HP,Ultrabook,14.0,2.5,8,1.54,1870.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.534228326274089
+Dell,Notebook,15.6,2.7,4,2.18,739.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,6.606650186198215
+HP,2 in 1 Convertible,11.6,1.1,4,1.4,615.0,1,0,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,6.423246963533519
+Asus,Ultrabook,13.3,2.3,8,1.45,1026.0,0,1,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i5,Nvidia,1,Windows,6.934397209928558
+HP,2 in 1 Convertible,13.3,2.5,8,1.28,2277.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.731053144007127
+HP,Ultrabook,14.0,2.5,8,1.54,1468.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.292337176173877
+HP,Notebook,15.6,1.6,4,1.86,299.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,No OS,5.703782474656201
+Asus,Gaming,15.6,2.8,16,2.1,1899.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.549609165154532
+Dell,Notebook,17.3,2.7,8,2.83,865.0,0,0,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Linux,6.763884908562435
+Lenovo,Ultrabook,14.0,2.8,8,1.96,1903.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.55171221535131
+Asus,Notebook,15.6,2.7,8,2.3,787.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.669498089857879
+Dell,Notebook,15.6,2.5,8,1.9,945.0,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.852242569051878
+Asus,Notebook,15.6,1.1,4,2.0,449.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,6.1092475827643655
+HP,2 in 1 Convertible,13.3,2.8,8,1.28,2559.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.847762537473608
+Dell,Notebook,13.3,2.3,8,1.62,649.0,1,0,165.63,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.476972362889683
+Lenovo,Notebook,15.6,2.0,4,2.2,469.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,No OS,6.152732694704104
+Lenovo,Notebook,15.6,2.5,8,2.3,850.66,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.747187386150408
+HP,Notebook,15.6,2.6,8,1.84,1349.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,7.2078598714324755
+Toshiba,Notebook,13.3,2.5,4,1.05,1285.0,0,0,165.63,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.1592919047975645
+Lenovo,Gaming,15.6,2.5,8,2.5,1017.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,No OS,6.925595197110468
+Dell,Ultrabook,13.3,2.5,16,1.29,2240.0,1,0,276.05,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.714677473800927
+HP,Notebook,15.6,2.3,4,2.07,910.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.814542897259958
+Toshiba,Ultrabook,13.3,2.3,8,1.2,1095.0,0,0,117.83,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.999422467507961
+Lenovo,2 in 1 Convertible,13.3,2.7,8,1.37,1950.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.576097340623111
+Acer,Notebook,14.0,2.5,8,1.56,902.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.805722553416985
+Dell,Workstation,15.6,2.8,8,2.23,1778.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.483806687665835
+Lenovo,Notebook,15.6,2.5,4,2.38,1055.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.962243464266207
+Lenovo,Notebook,15.6,2.0,4,2.2,479.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,No OS,6.173786103901937
+Toshiba,Notebook,15.6,2.7,8,2.0,1388.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.236339342754344
+Lenovo,Notebook,13.3,2.4,4,1.44,735.0,0,1,165.63,180.0,0.0,0.0,0.0,180.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.601230118728877
+Samsung,Ultrabook,15.0,2.7,16,1.23,1849.0,0,0,146.86,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.52294091807237
+Dell,Ultrabook,12.5,2.8,8,1.6,1690.0,0,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.43307534889858
+Asus,Notebook,15.6,1.1,4,2.0,398.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Linux,5.991439546795477
+Xiaomi,Ultrabook,13.3,2.3,8,1.28,935.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.841615476477592
+Dell,Notebook,15.6,2.5,4,2.18,912.5,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.817283375818062
+HP,Notebook,15.6,2.5,4,2.04,839.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.733401891837359
+HP,2 in 1 Convertible,13.3,2.5,4,1.28,1700.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.438971592395862
+HP,2 in 1 Convertible,15.6,2.5,4,2.3,684.8,1,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.53058604002882
+Asus,Notebook,14.1,1.1,4,1.65,348.0,0,0,111.14,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.855071922202427
+Lenovo,Notebook,15.6,2.5,8,2.2,669.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.507277712385012
+Dell,Notebook,15.6,1.6,4,2.2,369.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.91350300563827
+HP,2 in 1 Convertible,13.3,2.5,4,1.28,1799.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.495541943884256
+Dell,Notebook,15.6,2.0,4,2.18,455.7,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Linux,6.124026720190953
+Asus,Gaming,17.3,2.5,12,2.2,1369.9,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,7.223222737441855
+Acer,Netbook,11.6,1.6,4,1.25,297.0,0,1,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.697093486505405
+Lenovo,Notebook,17.3,2.2,4,2.8,379.0,0,0,106.11,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.940171252720432
+HP,Notebook,14.0,2.5,4,1.95,1265.0,0,0,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.143617602704121
+HP,2 in 1 Convertible,13.3,2.7,16,1.42,1399.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.24422751560335
+Samsung,Ultrabook,15.0,2.7,8,1.17,1699.0,0,0,146.86,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.438383530044307
+Lenovo,Ultrabook,14.0,2.5,8,1.32,1799.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.495541943884256
+MSI,Gaming,17.3,2.6,16,2.43,2649.0,0,1,254.67,512.0,2048.0,0.0,0.0,2560.0,1,Intel Core i7,Nvidia,1,Windows,7.882314918980268
+Toshiba,Notebook,13.3,2.5,8,1.05,1475.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.297091005160418
+Dell,Gaming,15.6,2.8,8,2.62,929.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Linux,6.835184586147301
+HP,Notebook,15.6,2.7,8,2.04,900.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.803505257608338
+Dell,Notebook,15.6,2.0,4,2.18,614.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Windows,6.421622267806518
+Dell,Notebook,15.6,2.6,8,1.9,935.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.841615476477592
+Dell,2 in 1 Convertible,13.3,1.3,8,1.24,2013.1,1,0,276.05,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.607927724478835
+Asus,Gaming,17.3,2.7,32,3.58,1279.0,0,1,127.34,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.154615356913663
+Dell,2 in 1 Convertible,13.3,1.3,16,1.22,1649.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.408530566894626
+Lenovo,Ultrabook,14.0,2.7,8,1.13,2049.0,0,1,157.35,0.0,0.0,256.0,0.0,256.0,0,Intel Core i7,Intel (Integrated),0,Windows,7.6255950721324535
+Lenovo,Notebook,15.6,2.5,8,1.95,1962.99,0,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.582733397251754
+LG,Ultrabook,15.6,2.7,16,1.08,2099.0,1,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.649692623711514
+HP,Netbook,12.5,2.7,8,1.26,1483.0,0,0,176.23,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.302496423727326
+Acer,Notebook,15.6,1.5,4,2.2,359.0,0,1,141.21,0.0,0.0,16.0,0.0,16.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.886104031450156
+Lenovo,Notebook,15.6,2.3,8,2.6,789.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.672032945461067
+LG,Ultrabook,14.0,2.7,8,0.98,1899.0,1,1,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.549609165154532
+Dell,Notebook,14.0,2.8,8,1.6,1205.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.095064377287131
+HP,Ultrabook,12.5,1.2,8,1.09,3100.0,1,0,352.47,240.0,0.0,0.0,0.0,240.0,1,Intel Core M,Intel (Integrated),0,Windows,8.03947991910045
+Lenovo,Notebook,15.6,2.7,6,2.2,789.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.672032945461067
+HP,Notebook,15.6,2.7,8,2.04,1018.99,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.927548102308689
+Acer,Notebook,15.6,2.4,4,2.4,499.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.214608098422191
+Lenovo,Notebook,13.3,2.5,4,1.44,881.0,0,0,165.63,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.782192056006791
+HP,Notebook,13.3,2.5,8,1.49,960.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.8679744089702925
+MSI,Gaming,17.3,2.8,16,2.7,1599.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.3777589082278725
+Dell,Gaming,15.6,2.8,16,2.6,1349.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.2078598714324755
+MSI,Gaming,15.6,2.5,8,2.2,1119.91,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,7.021896134389698
+Dell,Notebook,15.6,2.5,4,2.18,684.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.530863050360161
+HP,Ultrabook,15.6,2.5,8,1.84,1296.99,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.1685721930741115
+HP,Ultrabook,13.3,2.7,8,1.39,1149.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.047517221357296
+Toshiba,Notebook,15.6,2.6,16,2.4,1975.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.588829878307813
+Lenovo,2 in 1 Convertible,13.3,2.5,8,1.37,1825.0,1,1,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.509883061154913
+Dell,Notebook,15.6,2.3,4,1.95,729.9,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.594276651486346
+Lenovo,Ultrabook,12.5,2.7,8,1.36,1650.0,0,1,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.409136443920128
+HP,Notebook,15.6,2.3,8,2.31,1165.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.061334366910438
+Dell,Notebook,15.6,2.5,4,2.18,708.06,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.563940149185663
+HP,Notebook,14.0,2.3,4,1.95,1149.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,7.047517221357296
+Lenovo,Notebook,15.6,1.1,4,2.2,309.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.736572297479192
+HP,Ultrabook,12.5,2.3,4,1.26,1579.0,0,0,176.23,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,7.365180126021013
+HP,Notebook,15.6,1.6,4,1.86,288.9,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,No OS,5.66953603592761
+Lenovo,2 in 1 Convertible,13.3,2.2,16,1.3,1799.0,1,1,276.05,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.495541943884256
+Toshiba,Notebook,14.0,2.3,4,1.47,1105.0,0,1,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.00850518208228
+HP,Netbook,12.5,2.3,8,1.26,1669.0,0,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.4205789054108005
+Dell,Notebook,15.6,2.0,4,2.18,558.6,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.3272222427913265
+MSI,Gaming,15.6,2.8,8,2.2,1199.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.090076835776092
+Dell,Ultrabook,14.0,2.5,8,1.36,1639.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.402451520818244
+Dell,Gaming,17.3,2.7,16,4.36,2758.0,0,0,169.78,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,7.922623574217286
+HP,Gaming,17.3,2.3,8,2.75,1399.0,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,7.24422751560335
+Asus,Notebook,17.3,1.6,4,2.8,530.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Nvidia,1,Windows,6.274762021241939
+Acer,Notebook,15.6,2.5,4,2.23,619.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.429719478039138
+Toshiba,Notebook,15.6,2.3,8,2.2,1119.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.02108396428914
+Lenovo,2 in 1 Convertible,11.3,1.2,8,1.1,1299.0,1,1,194.95,256.0,0.0,0.0,0.0,256.0,1,Intel Core M,Intel (Integrated),0,Windows,7.170119543449628
+Lenovo,Gaming,15.6,2.1,16,2.5,999.0,0,1,141.21,512.0,1024.0,0.0,0.0,1536.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.907755278982137
+Dell,Ultrabook,12.5,2.5,8,1.36,1472.2,1,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.295192184570911
+Lenovo,Notebook,15.6,2.7,8,2.2,685.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,No OS,6.530877627725885
+Dell,Notebook,17.3,2.0,4,2.36,659.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Windows,6.492239835020471
+Acer,Notebook,14.0,1.6,4,1.68,349.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.857933154483459
+HP,Workstation,15.6,2.7,8,2.0,2249.0,0,1,141.21,8.0,0.0,0.0,0.0,8.0,1,Intel Core i7,Nvidia,1,Windows,7.718685495198466
+Dell,Ultrabook,14.0,2.8,8,1.36,1775.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.4821189235521155
+Toshiba,Notebook,13.3,2.3,8,1.2,1460.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.2868764117507
+Asus,2 in 1 Convertible,12.5,1.2,8,1.2,1159.0,0,0,176.23,0.0,0.0,64.0,0.0,64.0,0,Intel Core M,Intel (Integrated),0,Chrome OS,7.05617528410041
+Lenovo,Ultrabook,14.0,2.6,8,1.7,1488.99,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.306524687507587
+Dell,Gaming,17.3,2.8,16,4.36,3154.0,0,1,254.67,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,8.056743774975313
+Dell,2 in 1 Convertible,13.3,1.2,8,1.24,1899.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.549609165154532
+HP,2 in 1 Convertible,11.6,1.1,4,1.45,775.0,1,0,135.09,256.0,0.0,0.0,0.0,256.0,1,Intel Entry-Level,Intel (Integrated),0,Windows,6.654152520183219
+Dell,Ultrabook,13.3,2.5,8,1.3,1268.0,0,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.1459844677143876
+Acer,2 in 1 Convertible,11.6,1.6,4,1.25,389.0,1,1,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.966146739123692
+Toshiba,Notebook,13.3,2.4,8,1.2,1535.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.336936913707618
+Lenovo,Ultrabook,12.5,2.6,8,1.36,1760.0,0,1,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.473637108496206
+Acer,Notebook,15.6,2.5,12,2.4,1009.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.917705609835305
+Toshiba,Ultrabook,12.5,2.7,8,1.1,1790.0,1,0,176.23,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.490529402060711
+HP,Notebook,15.6,2.5,8,2.04,846.5,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.742290839254605
+Dell,Notebook,15.6,2.0,4,2.25,465.62,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,Linux,6.1455152219349065
+Dell,Notebook,15.6,2.5,4,1.9,825.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.716594773520978
+HP,Notebook,15.6,2.4,4,2.04,685.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.530877627725885
+Dell,Gaming,17.3,2.8,32,4.42,3149.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,8.055157731819678
+Lenovo,Notebook,15.6,2.5,6,2.4,695.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.54534966033442
+Dell,2 in 1 Convertible,13.3,1.3,16,1.22,1899.0,1,0,276.05,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.549609165154532
+Dell,Ultrabook,14.0,2.6,8,1.5,1962.98,1,0,209.8,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.5827283055631725
+Dell,Gaming,17.3,2.6,32,4.42,2800.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.937731775260109
+Toshiba,Notebook,14.0,2.3,8,1.95,1180.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.074116816197362
+Asus,Gaming,17.3,2.8,16,2.73,2049.9,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.626034000179687
+HP,Notebook,15.6,2.7,8,2.04,979.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,6.887552571664617
+Lenovo,Notebook,14.0,2.3,4,1.7,1002.0,0,0,111.94,0.0,0.0,0.0,508.0,508.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.910750787961936
+Asus,2 in 1 Convertible,15.6,2.7,16,2.3,1799.0,1,0,282.42,512.0,2048.0,0.0,0.0,2560.0,1,Intel Core i7,Nvidia,1,Windows,7.495541943884256
+HP,Notebook,15.6,2.7,6,2.04,579.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.363028103540465
+Asus,Gaming,17.3,2.8,16,2.99,1749.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.4673710669175595
+Dell,2 in 1 Convertible,15.6,2.7,12,2.19,1299.0,1,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.170119543449628
+Toshiba,Notebook,13.3,2.3,4,1.2,1195.0,0,0,165.63,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.086737934510577
+Lenovo,Notebook,15.6,3.6,6,2.2,549.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.309918278226516
+Fujitsu,Notebook,15.6,2.3,4,2.3,649.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.476972362889683
+Toshiba,Notebook,14.0,2.3,4,1.75,915.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.82001636467413
+Dell,Notebook,15.6,2.5,4,2.25,599.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.396929655216146
+HP,Notebook,15.6,2.5,8,2.04,806.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.693323668269949
+Lenovo,Gaming,15.6,2.8,8,2.5,1189.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.081708586105575
+Dell,Notebook,15.6,2.7,8,2.36,749.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Windows,6.620073206530356
+Dell,Notebook,14.0,2.5,8,1.6,1119.0,0,0,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.02108396428914
+HP,Netbook,12.5,1.2,8,0.97,1908.0,0,0,176.23,512.0,0.0,0.0,0.0,512.0,1,Intel Core M,Intel (Integrated),0,Windows,7.554334823725748
+HP,Notebook,15.6,2.0,4,2.1,499.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i3,AMD (Dedicated),1,Windows,6.214608098422191
+Lenovo,Notebook,15.6,1.1,4,1.9,270.62,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Entry-Level,Intel (Integrated),0,No OS,5.604404030675922
+Lenovo,Notebook,15.6,2.3,8,2.3,1349.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.2078598714324755
+Dell,2 in 1 Convertible,13.3,2.5,8,1.68,889.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.7912214627261855
+Asus,Notebook,13.3,2.5,8,1.4,1150.0,0,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.048386408721883
+HP,Ultrabook,13.3,2.7,8,1.11,1349.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.2078598714324755
+Acer,Notebook,15.6,1.1,4,2.4,380.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.942799375126701
+Asus,Gaming,15.6,2.8,16,2.5,1799.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.495541943884256
+HP,Ultrabook,14.0,2.7,8,1.48,2089.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.644919344958857
+Acer,Gaming,15.6,2.8,8,2.7,1260.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.13966033596492
+HP,Notebook,13.3,2.5,8,1.34,1189.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.081708586105575
+Dell,Notebook,15.6,2.4,4,2.18,547.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.306275286948016
+HP,Notebook,14.0,2.5,4,1.64,779.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.659293919683638
+Toshiba,Notebook,13.3,2.3,4,1.2,1195.0,0,0,165.63,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.086737934510577
+HP,Notebook,14.0,2.4,4,1.48,1099.99,0,0,111.94,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.003965054029298
+HP,Notebook,14.0,2.5,4,1.95,1205.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.095064377287131
+HP,Ultrabook,14.0,2.6,8,1.43,1449.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.27931883541462
+HP,Notebook,14.0,2.5,8,1.64,1049.26,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.956793031546652
+HP,Notebook,14.0,2.4,4,1.64,684.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.529418838262226
+Dell,Gaming,15.6,2.5,8,2.65,949.0,0,0,141.21,0.0,0.0,0.0,1024.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.856461984594587
+HP,Ultrabook,12.5,2.5,4,1.26,1539.0,0,0,176.23,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,7.3395376954076745
+HP,Notebook,14.0,2.5,4,1.48,1590.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.372118028337787
+HP,Ultrabook,14.0,2.5,8,1.54,1887.21,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.54338456933354
+HP,Notebook,13.3,2.4,4,1.49,800.0,0,0,117.83,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.68586094706836
+Toshiba,Notebook,13.3,2.3,8,1.5,1210.0,0,0,117.83,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.099201743553092
+HP,Notebook,15.6,2.4,4,2.04,769.99,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.647675403310604
+Lenovo,Notebook,17.3,2.7,16,2.4,2968.0,0,1,254.67,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.99598047476376
+Toshiba,Notebook,14.0,2.3,8,1.47,1490.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.307202314764738
+HP,Notebook,14.0,2.5,8,1.43,2229.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.709756864454165
+Dell,2 in 1 Convertible,15.6,2.3,4,2.08,795.99,1,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.680842131660057
+Toshiba,Ultrabook,13.3,2.3,8,1.2,1590.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.372118028337787
+HP,Notebook,13.3,2.5,8,1.11,1149.0,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.047517221357296
+HP,Notebook,14.0,2.7,8,1.64,1185.43,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.078704077085276
+Dell,Notebook,15.6,2.4,8,2.09,1046.44,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.954104370919498
+HP,Ultrabook,12.5,2.5,4,1.26,1559.0,0,0,125.37,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.352441100243583
+HP,Notebook,14.0,2.5,4,2.31,1189.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,7.081708586105575
+HP,Notebook,14.0,2.5,4,1.95,1060.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.966967138613983
+Dell,Ultrabook,13.3,2.5,8,1.29,1624.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.393263094763838
+HP,Notebook,17.3,2.5,8,2.63,1080.0,0,0,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.985641817639208
+HP,Notebook,14.0,2.5,4,1.64,973.0,0,0,111.94,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.881411303642535
+Acer,Notebook,15.6,3.0,6,2.1,409.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.016157159698354
+MSI,Gaming,17.3,2.8,8,2.7,1191.8,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.084058763450528
+HP,Notebook,14.0,2.3,8,1.95,1195.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.086737934510577
+HP,Notebook,15.6,2.5,8,1.84,1228.99,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.114761318252113
+HP,Ultrabook,12.5,2.5,8,1.26,1349.0,0,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.2078598714324755
+HP,Notebook,15.6,2.5,4,2.04,742.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.610696044717759
+Toshiba,Ultrabook,14.0,2.6,8,1.47,1725.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.453561871643373
+Dell,Notebook,15.6,2.4,8,2.09,1062.95,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.969743676316205
+HP,Notebook,14.0,2.5,8,1.64,1010.51,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.919199542866395
+Lenovo,2 in 1 Convertible,15.6,2.5,4,1.8,847.0,1,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.742880635791903
+Vero,Notebook,14.0,1.44,2,1.45,210.8,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.355642433167306
+Toshiba,Notebook,15.6,2.5,16,2.4,1425.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.262628600974241
+Lenovo,Notebook,15.6,2.3,8,2.3,1049.6,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.957116708519861
+HP,Notebook,14.0,2.3,4,1.54,1000.0,0,0,157.35,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.90875477931522
+HP,Notebook,15.6,2.4,8,1.84,2103.34,0,0,141.21,256.0,500.0,0.0,0.0,756.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.651757157760393
+HP,Notebook,14.0,2.3,8,1.43,1469.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.293017679772782
+MSI,Gaming,17.3,2.7,16,3.78,1545.64,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.343840115024246
+Lenovo,Gaming,17.3,2.6,16,4.6,2289.99,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.736739317537815
+Asus,Netbook,11.6,1.6,4,1.2,287.9,0,0,135.09,0.0,0.0,16.0,0.0,16.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.66608060747219
+Lenovo,Notebook,14.0,2.6,16,1.1,2620.0,0,1,209.8,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.8713112033234065
+HP,Notebook,15.6,2.7,8,1.91,979.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.887552571664617
+Dell,2 in 1 Convertible,15.6,2.7,8,2.3,1094.0,1,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.9985096422506015
+HP,Notebook,15.6,2.5,4,2.04,979.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.887552571664617
+Dell,Ultrabook,13.3,2.7,16,1.2,2254.0,1,0,276.05,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.720905251936779
+HP,Notebook,15.6,2.3,4,2.31,705.15,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.559827679515073
+HP,Notebook,15.6,2.5,4,1.96,499.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,No OS,6.214608098422191
+Acer,Notebook,15.6,2.2,8,2.4,449.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.1092475827643655
+Dell,2 in 1 Convertible,13.3,2.7,12,1.6,1299.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.170119543449628
+MSI,Gaming,15.6,2.6,16,2.94,1819.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.506591780070841
+HP,Notebook,15.6,2.7,8,2.04,1070.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.976348070447749
+Asus,Gaming,17.3,2.6,16,4.0,998.0,0,1,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,No OS,6.906754778648554
+Dell,Notebook,15.6,2.5,4,2.25,559.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.327936783729195
+Dell,Notebook,15.6,2.7,16,2.32,989.99,0,0,141.21,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i7,AMD (Dedicated),1,Windows,6.898704443461719
+MSI,Gaming,15.6,2.6,16,1.8,1929.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.5652752818989315
+Dell,Ultrabook,13.3,2.7,8,1.29,1458.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.285506548522785
+Dell,2 in 1 Convertible,13.3,2.5,8,1.62,798.01,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.68337346133251
+Dell,Gaming,15.6,2.6,16,3.21,1329.0,0,0,282.42,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.1929342212158
+Apple,Ultrabook,12.0,1.1,8,0.92,1300.0,0,1,226.42,0.0,0.0,256.0,0.0,256.0,0,Intel Core M,Intel (Integrated),0,macOS,7.170888478512505
+Dell,Notebook,15.6,2.3,4,2.06,481.98,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.179975244927748
+HP,Notebook,15.6,2.3,4,2.31,1199.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,7.090076835776092
+HP,Ultrabook,12.5,2.3,8,1.26,1199.0,0,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.090076835776092
+HP,Notebook,13.3,2.7,8,1.49,1090.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.994849985833071
+Lenovo,Ultrabook,12.5,2.5,8,1.3,1713.49,1,1,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.446870939281707
+Lenovo,Notebook,17.3,2.3,8,3.0,659.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.492239835020471
+Lenovo,Notebook,15.6,2.3,4,2.3,977.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.885509670034818
+MSI,Gaming,17.3,2.8,16,3.78,2499.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.824046010856292
+Lenovo,Notebook,15.6,2.3,4,2.1,540.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.293419278846481
+HP,Notebook,15.6,2.3,4,2.31,940.0,0,0,141.21,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.846943139585379
+Lenovo,Ultrabook,12.5,1.2,8,0.99,1399.0,1,1,234.98,512.0,0.0,0.0,0.0,512.0,1,Intel Core M,Intel (Integrated),0,Windows,7.24422751560335
+Lenovo,Gaming,17.3,2.7,32,4.6,3240.0,0,1,127.34,512.0,0.0,0.0,1024.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,8.083637203141548
+Lenovo,2 in 1 Convertible,10.1,1.44,4,0.69,646.27,1,1,224.17,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,6.472763518115628
+HP,Ultrabook,13.3,2.7,16,1.3,2049.0,0,1,331.26,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.6255950721324535
+Dell,Notebook,15.6,2.5,8,2.18,750.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.621405651764134
+HP,Notebook,14.0,2.3,4,1.54,1030.99,0,0,157.35,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.9392442560720795
+HP,Workstation,15.6,2.5,8,1.9,1495.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,AMD (Dedicated),1,Windows,7.310550158534422
+Lenovo,Notebook,14.0,2.3,8,1.7,1199.0,0,0,157.35,180.0,0.0,0.0,0.0,180.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.090076835776092
+HP,Notebook,13.3,1.5,4,1.29,615.0,0,0,276.05,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,6.423246963533519
+Acer,Notebook,15.6,2.2,4,2.4,387.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.961005339623274
+Dell,Notebook,15.6,1.6,4,2.2,393.49,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Linux,5.977593791422191
+HP,Notebook,15.6,2.0,4,1.86,345.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,No OS,5.849295961087796
+Asus,Gaming,17.3,2.8,8,2.7,1599.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.3777589082278725
+Dell,Ultrabook,13.3,1.6,4,1.4,818.35,0,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.708511342992233
+HP,Netbook,12.5,2.3,4,2.4,1599.0,0,0,125.37,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.3777589082278725
+Acer,Notebook,15.6,2.5,8,2.4,799.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i5,Nvidia,1,Windows,6.684611727667927
+Dell,Notebook,15.6,2.5,8,2.36,638.8,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.461155627515417
+MSI,Gaming,17.3,2.6,8,2.6,1599.0,0,0,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.3777589082278725
+HP,Notebook,15.6,1.6,4,1.96,500.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,6.2166061010848646
+Asus,Gaming,17.3,2.6,16,4.3,2299.0,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.7406644019172415
+Dell,Ultrabook,12.5,2.3,4,1.5,1135.15,0,0,125.37,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,7.035400632817807
+Dell,Ultrabook,12.5,2.3,4,1.5,1166.97,0,0,125.37,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,7.063022478126802
+Acer,Notebook,15.6,1.5,4,2.2,209.0,0,0,100.45,16.0,0.0,0.0,0.0,16.0,1,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.3471075307174685
+HP,Workstation,17.3,2.6,8,3.0,2899.0,0,1,127.34,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Windows,7.9724660159745655
+Lenovo,Gaming,15.6,2.8,16,2.4,1199.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.090076835776092
+Dell,Ultrabook,12.5,2.3,8,1.5,1413.1,0,0,125.37,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.2542485653137305
+MSI,Gaming,17.3,2.6,8,2.9,1511.19,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.32131421022041
+Lenovo,2 in 1 Convertible,15.6,2.3,4,2.1,867.0,1,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.7661917146603505
+HP,Notebook,15.6,2.5,4,2.1,398.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.988961416889864
+Asus,Gaming,15.6,2.6,16,2.59,1339.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.200424892944957
+HP,Notebook,13.3,1.1,8,1.16,1699.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core M,Intel (Integrated),0,Windows,7.438383530044307
+Dell,Notebook,15.6,2.3,4,2.24,769.15,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.646585301070466
+Lenovo,Notebook,15.6,2.0,4,2.1,429.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.063785208687608
+HP,Ultrabook,13.3,2.5,8,1.16,1969.0,0,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.585788821732034
+Lenovo,2 in 1 Convertible,10.1,1.44,4,0.69,549.0,1,1,224.17,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Chrome OS,6.309918278226516
+Dell,Ultrabook,13.3,2.4,8,1.23,1379.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.22983877815125
+Lenovo,Gaming,17.3,2.7,16,4.6,2749.99,0,1,127.34,256.0,0.0,0.0,1024.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.919716125876165
+Razer,Ultrabook,12.5,2.5,8,1.25,1029.0,1,0,352.47,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.937314081223682
+Toshiba,Ultrabook,13.3,2.7,16,1.05,2226.0,0,0,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.708410667257367
+Asus,Gaming,17.3,2.6,8,3.52,1312.49,0,0,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.180442995849564
+Vero,Notebook,13.3,1.44,4,1.35,196.0,0,0,165.63,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.2832037287379885
+HP,Notebook,13.3,2.3,8,1.16,1690.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.43307534889858
+HP,Notebook,14.0,2.3,8,1.43,1513.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.322510433997394
+Dell,Notebook,15.6,2.3,4,2.09,523.63,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Linux,6.262693252225446
+Asus,Notebook,15.6,2.4,4,2.0,435.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.077642243349034
+Lenovo,2 in 1 Convertible,14.0,2.5,8,1.8,1669.0,1,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.4205789054108005
+Lenovo,2 in 1 Convertible,10.1,1.44,4,0.69,479.0,1,1,224.17,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,6.173786103901937
+HP,Ultrabook,12.5,2.4,8,1.26,1895.0,0,0,125.37,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.547501682814967
+Lenovo,Gaming,15.6,2.5,8,2.4,989.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,No OS,6.897704943128636
+HP,Gaming,17.3,2.3,8,3.35,1129.0,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i5,Nvidia,1,Windows,7.029972911706386
+HP,Notebook,15.6,2.7,8,2.04,629.0,0,0,100.45,0.0,2048.0,0.0,0.0,2048.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.4457198193855785
+Lenovo,2 in 1 Convertible,14.0,2.6,8,1.8,2050.38,1,1,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.626268016386377
+Asus,Notebook,14.0,1.1,4,1.5,278.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.631211781821365
+HP,Ultrabook,15.6,2.7,8,1.84,752.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.6240652277998935
+Acer,Notebook,15.6,2.5,4,2.23,616.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.424869023905388
+Lenovo,Notebook,15.6,2.5,16,2.5,1099.0,0,0,141.21,0.0,0.0,0.0,1024.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Windows,7.003065458786462
+HP,Workstation,17.3,2.6,8,3.0,3949.4,0,1,127.34,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,8.281572118590915
+Dell,Notebook,15.6,2.5,8,2.5,784.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.665683717782408
+MSI,Gaming,17.3,2.7,16,3.78,2399.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.783224016336037
+HP,Ultrabook,15.6,2.5,8,1.88,2171.72,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.683735117835295
+Lenovo,2 in 1 Convertible,14.0,2.6,16,2.8,2440.0,1,1,209.8,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.80016307039296
+MSI,Gaming,15.6,2.8,8,2.4,1142.8,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.042111331481216
+HP,2 in 1 Convertible,13.3,2.4,8,1.48,1629.0,1,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.396335293800808
+HP,Workstation,15.6,2.6,8,2.59,2229.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.709756864454165
+HP,2 in 1 Convertible,13.3,2.6,8,1.48,1799.0,1,0,220.84,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.495541943884256
+HP,Workstation,15.6,2.6,8,2.0,1899.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,7.549609165154532
+HP,Ultrabook,12.5,2.5,8,1.26,2296.95,0,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.739772700121512
+Dell,Notebook,15.6,2.7,8,2.18,1009.9,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.918596302160012
+HP,Notebook,15.6,2.3,8,1.88,1579.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.365180126021013
+Lenovo,2 in 1 Convertible,14.0,2.5,8,1.27,2339.0,1,1,209.8,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.757906208351747
+Lenovo,Notebook,15.6,2.0,4,1.9,339.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,No OS,5.8289456176102075
+HP,Notebook,15.6,1.8,4,1.86,297.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.697093486505405
+Lenovo,Notebook,15.6,2.3,8,2.32,599.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,No OS,6.396929655216146
+Dell,Gaming,15.6,2.8,8,2.62,1199.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.090076835776092
+Dell,Notebook,15.6,2.3,8,2.04,2250.68,1,1,282.42,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,7.719431883248258
+HP,Notebook,15.6,2.5,4,1.91,478.89,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.173556910972577
+MSI,Gaming,17.3,2.8,16,2.7,1492.8,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.309078487922966
+Lenovo,Ultrabook,14.0,2.6,12,1.4,2299.0,0,0,157.35,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.7406644019172415
+Lenovo,Notebook,15.6,2.3,8,2.5,788.49,0,0,141.21,0.0,0.0,0.0,1024.0,1024.0,0,Intel Core i5,AMD (Dedicated),1,Windows,6.67138716737102
+HP,2 in 1 Convertible,13.3,2.6,8,1.48,2041.0,1,0,220.84,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.621684998724611
+Lenovo,Ultrabook,14.0,2.6,8,1.7,1499.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.313220387090301
+MSI,Gaming,14.0,2.6,16,1.7,1769.0,0,0,157.35,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.478734825567875
+HP,Gaming,15.6,2.8,8,2.62,899.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.802394763324311
+Lenovo,Notebook,15.6,2.0,8,2.2,459.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.131226489483141
+HP,Notebook,15.6,2.3,4,2.1,476.99,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,No OS,6.1695898117705275
+Dell,Gaming,15.6,2.8,8,2.62,1498.0,0,0,282.42,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.312553498102598
+Lenovo,Notebook,15.6,2.5,8,1.95,1390.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.237778191923443
+Lenovo,Notebook,15.6,2.0,4,2.2,468.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Windows,6.150602768446279
+HP,Notebook,14.0,1.6,2,1.44,249.0,0,0,111.94,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.521460917862246
+MSI,Gaming,15.6,2.7,8,2.2,839.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.733401891837359
+HP,Notebook,15.6,2.5,8,1.96,679.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.522092798170152
+HP,Notebook,15.6,1.8,16,2.1,1159.0,0,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.05617528410041
+Asus,Notebook,15.6,1.6,4,2.2,369.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.91350300563827
+Lenovo,Notebook,15.6,2.3,4,2.1,398.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,No OS,5.988961416889864
+Lenovo,Notebook,15.6,2.7,8,2.2,709.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,No OS,6.565264970035361
+Asus,Notebook,14.0,2.4,4,2.0,769.0,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i3,Intel (Integrated),0,Windows,6.646390514847729
+Lenovo,Notebook,15.6,2.5,4,2.32,825.0,0,0,141.21,0.0,0.0,0.0,1024.0,1024.0,0,Intel Core i7,Intel (Integrated),0,Windows,6.716594773520978
+Lenovo,Gaming,15.6,2.6,16,3.31,1305.0,0,1,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.174724309836376
+MSI,Gaming,15.6,2.6,16,1.91,2153.37,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.6752536164097185
+HP,Notebook,15.6,2.3,4,2.07,650.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.478509642208569
+Lenovo,2 in 1 Convertible,14.0,2.3,8,1.36,1637.0,1,1,209.8,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.401231264413015
+Lenovo,Ultrabook,15.6,2.7,6,1.54,831.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Windows,6.723832440821209
+Dell,Notebook,15.6,2.7,8,1.98,895.01,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Nvidia,1,Linux,6.797951573626936
+Acer,Notebook,15.6,2.0,4,2.1,333.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.811140992976701
+HP,Notebook,15.6,2.6,6,2.18,799.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.684611727667927
+Asus,Gaming,15.6,2.6,8,2.591,909.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,6.813444599510896
+Dell,2 in 1 Convertible,15.6,2.7,16,2.09,1179.0,1,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.07326971745971
+Acer,Notebook,15.6,2.5,4,2.23,691.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Nvidia,1,Windows,6.539585955617669
+Dell,Ultrabook,13.3,2.4,8,1.23,1099.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Linux,7.003065458786462
+Acer,Gaming,17.3,2.8,16,4.2,2599.0,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.8632667240095735
+Lenovo,Gaming,15.6,2.5,8,2.4,819.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Nvidia,1,Windows,6.709304340258298
+HP,Notebook,15.6,2.5,4,1.86,485.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.186208623900494
+Apple,Ultrabook,12.0,1.1,8,0.92,1163.0,0,1,226.42,0.0,0.0,256.0,0.0,256.0,0,Intel Core M,Intel (Integrated),0,macOS,7.059617628291383
+Dell,2 in 1 Convertible,13.3,2.5,8,1.6,1199.0,1,1,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.090076835776092
+HP,Notebook,15.6,2.8,12,2.21,1327.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.191429330036379
+Lenovo,Notebook,15.6,2.0,4,1.9,368.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,AMD (Dedicated),1,No OS,5.910796644040527
+Asus,Gaming,17.3,2.6,16,4.3,2150.0,0,1,127.34,512.0,1024.0,0.0,0.0,1536.0,1,Intel Core i7,Nvidia,1,Windows,7.67368812926773
+Acer,Notebook,15.6,2.0,4,2.1,272.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Linux,5.60947179518496
+MSI,Gaming,17.3,2.8,16,2.43,2048.9,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.625546290454842
+Dell,Notebook,15.6,2.0,4,2.3,499.0,0,0,100.45,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,AMD (Dedicated),1,Windows,6.214608098422191
+Lenovo,Notebook,15.6,2.5,8,2.2,629.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i7,Nvidia,1,No OS,6.4457198193855785
+Dell,2 in 1 Convertible,15.6,1.8,16,2.0,1285.0,1,0,141.21,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.1592919047975645
+Dell,Ultrabook,13.3,2.7,16,1.2,2680.0,1,0,276.05,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.893945138235959
+Asus,Gaming,15.6,2.6,8,2.2,1169.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,7.064759027791802
+Dell,Notebook,15.6,2.5,8,2.36,889.0,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,AMD (Dedicated),1,Windows,6.7912214627261855
+HP,Notebook,15.6,2.5,8,1.91,579.0,0,0,100.45,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.363028103540465
+Lenovo,Notebook,15.6,2.2,4,2.2,299.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.703782474656201
+Acer,Notebook,17.3,2.0,8,3.3,629.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Windows,6.4457198193855785
+Asus,Gaming,15.6,2.8,16,2.2,2449.0,0,0,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.803843303538772
+Apple,Ultrabook,12.0,1.2,8,0.92,1279.0,0,1,226.42,0.0,0.0,512.0,0.0,512.0,0,Intel Core M,Intel (Integrated),0,macOS,7.154615356913663
+Asus,Notebook,15.6,2.8,16,2.2,1749.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.4673710669175595
+MSI,Gaming,17.3,2.6,16,2.43,1948.99,0,1,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.575579523339515
+Dell,2 in 1 Convertible,15.6,2.5,8,2.191,999.0,1,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.907755278982137
+Asus,Gaming,17.3,2.8,16,2.9,1949.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.575584651557793
+Acer,Netbook,11.6,1.5,2,1.3,174.0,0,0,135.09,32.0,0.0,0.0,0.0,32.0,1,Intel Entry-Level,Intel (Integrated),0,Chrome OS,5.1647859739235145
+Acer,Notebook,17.3,2.0,4,3.3,598.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Nvidia,1,Windows,6.395261598115449
+Lenovo,Notebook,17.3,2.5,8,2.8,539.0,0,0,106.11,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,No OS,6.29156913955832
+Lenovo,Gaming,15.6,2.6,8,2.6,1272.0,0,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.149131598557407
+Acer,2 in 1 Convertible,14.0,1.3,8,1.2,1149.0,1,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.047517221357296
+Lenovo,Notebook,15.6,2.6,8,2.3,1529.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.333023014386481
+MSI,Gaming,15.6,2.6,8,2.2,1476.11,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.297842755045979
+HP,Notebook,15.6,2.7,6,2.1,529.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.272877006546167
+Dell,Ultrabook,12.5,2.4,8,1.26,1713.37,1,0,176.23,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.44680094517285
+Dell,2 in 1 Convertible,15.0,2.4,4,2.08,509.0,1,0,146.86,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.234410725718371
+Asus,Notebook,15.6,1.6,4,2.65,309.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.736572297479192
+Dell,Ultrabook,13.3,2.7,8,1.29,1477.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.298445101508147
+Dell,Notebook,15.6,2.5,4,2.18,521.86,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i5,Intel (Integrated),0,Linux,6.259313741806043
+Lenovo,Gaming,15.6,2.6,16,2.6,1029.0,1,1,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,6.937314081223682
+MSI,Gaming,15.6,2.8,8,2.2,1149.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.047517221357296
+Lenovo,Netbook,12.5,2.5,16,1.3,1650.0,1,1,176.23,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.409136443920128
+Razer,Gaming,14.0,2.8,16,1.95,3499.0,0,0,157.35,1024.0,0.0,0.0,0.0,1024.0,1,Intel Core i7,Nvidia,1,Windows,8.160518247477505
+Dell,Notebook,15.6,2.4,8,2.3,469.01,1,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.152753971073506
+MSI,Gaming,17.3,2.8,16,2.7,1598.0,0,0,127.34,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.377133712833954
+Apple,Ultrabook,11.6,1.6,4,1.08,959.0,0,0,135.09,0.0,0.0,256.0,0.0,256.0,0,Intel Core i5,Intel (Integrated),0,macOS,6.866933284461882
+HP,Notebook,15.6,2.0,4,2.1,478.0,0,0,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.171700597410915
+HP,Ultrabook,14.0,2.5,8,1.54,2198.19,0,0,209.8,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.695844389732659
+Dell,Notebook,15.6,2.3,4,2.24,737.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.6039438246004725
+MSI,Gaming,15.6,2.6,8,2.3,1169.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.064759027791802
+Lenovo,Notebook,13.3,2.7,16,1.4,1499.0,0,1,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.313220387090301
+Lenovo,Notebook,15.6,3.6,6,2.2,597.57,0,0,141.21,256.0,0.0,0.0,0.0,256.0,1,AMD Processor,AMD (Dedicated),1,Windows,6.394543477223177
+Asus,Ultrabook,13.3,2.5,8,1.45,1280.0,0,0,165.63,256.0,0.0,0.0,0.0,256.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.155396301896734
+Acer,Notebook,15.6,2.0,4,2.4,361.8,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Linux,5.893851718240982
+Dell,2 in 1 Convertible,17.3,2.7,16,2.77,1799.0,1,0,127.34,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Nvidia,1,Windows,7.495541943884256
+HP,Notebook,14.0,2.3,4,1.54,1099.99,0,0,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.003965054029298
+Asus,Gaming,15.6,2.8,16,2.5,1600.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.3783837129967145
+Dell,Notebook,14.0,2.5,4,1.6,875.0,0,0,111.94,0.0,500.0,0.0,0.0,500.0,0,Intel Core i5,Intel (Integrated),0,Windows,6.775366090936392
+Asus,Gaming,15.6,2.6,16,2.34,2325.0,0,1,141.21,256.0,1024.0,0.0,0.0,1280.0,1,Intel Core i7,Nvidia,1,Windows,7.75190533307861
+Lenovo,Notebook,15.6,2.5,8,2.3,573.0,0,1,141.21,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,No OS,6.352629396319567
+Dell,2 in 1 Convertible,13.3,1.2,8,1.24,1813.0,1,0,276.05,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,7.503289630675082
+Dell,Notebook,15.6,1.6,4,2.2,324.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Linux,5.783825182329737
+HP,Notebook,15.6,2.5,4,1.86,399.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,AMD Processor,AMD (Dedicated),1,Windows,5.991464547107982
+Lenovo,Notebook,15.6,2.3,6,2.4,569.0,0,0,141.21,128.0,0.0,0.0,0.0,128.0,1,Intel Core i3,Nvidia,1,Windows,6.345636360828596
+Lenovo,Notebook,14.0,2.3,8,1.9,1072.0,0,1,157.35,256.0,0.0,0.0,0.0,256.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.9782137426306985
+Dell,Notebook,15.6,1.6,4,2.2,443.99,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,6.09805181000363
+Asus,Notebook,15.6,1.1,4,2.0,339.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.8289456176102075
+Asus,Gaming,17.3,2.6,16,4.0,1900.0,0,1,127.34,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.550135342488429
+Dell,Notebook,15.6,2.0,4,2.29,490.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.19644412779452
+Lenovo,Notebook,15.6,2.5,8,2.32,895.0,0,0,141.21,0.0,0.0,0.0,1024.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Windows,6.79794041297493
+MSI,Gaming,15.6,2.6,8,2.4,1229.0,0,0,141.21,128.0,1024.0,0.0,0.0,1152.0,1,Intel Core i7,Nvidia,1,Windows,7.114769448366463
+Lenovo,2 in 1 Convertible,14.0,2.3,4,1.8,833.01,1,0,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i5,Intel (Integrated),0,Windows,6.726245392694536
+Asus,Ultrabook,13.3,0.9,8,1.2,729.0,0,1,165.63,512.0,0.0,0.0,0.0,512.0,1,Intel Core M,Intel (Integrated),0,Windows,6.593044534142437
+Dell,Notebook,15.6,2.4,6,2.3,459.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i3,Intel (Integrated),0,Windows,6.131226489483141
+Acer,Notebook,15.6,1.6,4,2.4,289.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Linux,5.66988092298052
+Dell,Notebook,15.6,1.6,2,2.2,379.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.940171252720432
+Lenovo,Notebook,15.6,2.6,8,2.6,899.0,0,1,141.21,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,Nvidia,1,Windows,6.802394763324311
+HP,Notebook,15.6,2.9,6,2.04,549.99,0,0,141.21,0.0,0.0,0.0,1024.0,1024.0,0,AMD Processor,AMD (Dedicated),1,Windows,6.311716660167896
+Dell,Notebook,15.6,2.7,8,2.3,805.99,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Linux,6.6933112766194425
+HP,Netbook,11.6,1.6,2,1.17,209.0,0,0,135.09,0.0,0.0,32.0,0.0,32.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.3471075307174685
+Asus,Notebook,15.6,2.5,4,2.2,720.32,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Core i7,Nvidia,1,Windows,6.581082866839071
+Lenovo,2 in 1 Convertible,14.0,2.5,4,1.8,638.0,1,1,157.35,128.0,0.0,0.0,0.0,128.0,1,Intel Core i7,Intel (Integrated),0,Windows,6.459904454377535
+Lenovo,2 in 1 Convertible,13.3,2.5,16,1.3,1499.0,1,1,276.05,512.0,0.0,0.0,0.0,512.0,1,Intel Core i7,Intel (Integrated),0,Windows,7.313220387090301
+Lenovo,Notebook,14.0,1.6,2,1.5,229.0,0,0,111.94,0.0,0.0,64.0,0.0,64.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.438079308923196
+HP,Notebook,15.6,2.5,6,2.19,764.0,0,0,100.45,0.0,1024.0,0.0,0.0,1024.0,0,Intel Core i7,AMD (Dedicated),1,Windows,6.639875833826536
+Asus,Notebook,15.6,1.6,4,2.2,369.0,0,0,100.45,0.0,500.0,0.0,0.0,500.0,0,Intel Entry-Level,Intel (Integrated),0,Windows,5.91350300563827
